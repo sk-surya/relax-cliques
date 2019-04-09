@@ -1,0 +1,4971 @@
+ampl: include clique.run
+Gurobi 8.1.0: optimal solution; objective 58
+59 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 5
+770 simplex iterations
+17 branch-and-cut nodes
+I_Set_Weight = 5
+
+nSETS = 201
+
+sub_counter = 1
+
+Gurobi 8.1.0: optimal solution; objective 58
+61 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 5
+636 simplex iterations
+13 branch-and-cut nodes
+I_Set_Weight = 5
+
+nSETS = 202
+
+sub_counter = 2
+
+Gurobi 8.1.0: optimal solution; objective 56.5
+77 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.5
+1490 simplex iterations
+36 branch-and-cut nodes
+I_Set_Weight = 4.5
+
+nSETS = 203
+
+sub_counter = 3
+
+Gurobi 8.1.0: optimal solution; objective 55
+87 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 5
+240 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 5
+
+nSETS = 204
+
+sub_counter = 4
+
+Gurobi 8.1.0: optimal solution; objective 54
+76 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.5
+1660 simplex iterations
+28 branch-and-cut nodes
+I_Set_Weight = 4.5
+
+nSETS = 205
+
+sub_counter = 5
+
+Gurobi 8.1.0: optimal solution; objective 52
+84 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 5
+691 simplex iterations
+11 branch-and-cut nodes
+I_Set_Weight = 5
+
+nSETS = 206
+
+sub_counter = 6
+
+Gurobi 8.1.0: optimal solution; objective 50.66666667
+95 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.666667
+1365 simplex iterations
+22 branch-and-cut nodes
+I_Set_Weight = 4.66667
+
+nSETS = 207
+
+sub_counter = 7
+
+Gurobi 8.1.0: optimal solution; objective 50
+112 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 5
+132 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 5
+
+nSETS = 208
+
+sub_counter = 8
+
+Gurobi 8.1.0: optimal solution; objective 48
+84 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4
+715 simplex iterations
+24 branch-and-cut nodes
+I_Set_Weight = 4
+
+nSETS = 209
+
+sub_counter = 9
+
+Gurobi 8.1.0: optimal solution; objective 48
+103 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.666667
+903 simplex iterations
+13 branch-and-cut nodes
+I_Set_Weight = 4.66667
+
+nSETS = 210
+
+sub_counter = 10
+
+Gurobi 8.1.0: optimal solution; objective 46.69230769
+123 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4
+1620 simplex iterations
+27 branch-and-cut nodes
+I_Set_Weight = 4
+
+nSETS = 211
+
+sub_counter = 11
+
+Gurobi 8.1.0: optimal solution; objective 46.57142857
+133 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.142857
+1541 simplex iterations
+23 branch-and-cut nodes
+I_Set_Weight = 4.14286
+
+nSETS = 212
+
+sub_counter = 12
+
+Gurobi 8.1.0: optimal solution; objective 46.0625
+134 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4
+1405 simplex iterations
+25 branch-and-cut nodes
+I_Set_Weight = 4
+
+nSETS = 213
+
+sub_counter = 13
+
+Gurobi 8.1.0: optimal solution; objective 45.25
+144 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.125
+998 simplex iterations
+12 branch-and-cut nodes
+I_Set_Weight = 4.125
+
+nSETS = 214
+
+sub_counter = 14
+
+Gurobi 8.1.0: optimal solution; objective 44.95890411
+167 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.561644
+3005 simplex iterations
+47 branch-and-cut nodes
+I_Set_Weight = 3.56164
+
+nSETS = 215
+
+sub_counter = 15
+
+Gurobi 8.1.0: optimal solution; objective 44.41534392
+181 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.703704
+2172 simplex iterations
+33 branch-and-cut nodes
+I_Set_Weight = 3.7037
+
+nSETS = 216
+
+sub_counter = 16
+
+Gurobi 8.1.0: optimal solution; objective 43.71764706
+177 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 4.294117
+1090 simplex iterations
+15 branch-and-cut nodes
+I_Set_Weight = 4.29412
+
+nSETS = 217
+
+sub_counter = 17
+
+Gurobi 8.1.0: optimal solution; objective 43.22372881
+192 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.457627
+3400 simplex iterations
+42 branch-and-cut nodes
+I_Set_Weight = 3.45763
+
+nSETS = 218
+
+sub_counter = 18
+
+Gurobi 8.1.0: optimal solution; objective 42.68193548
+215 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.850322
+1766 simplex iterations
+19 branch-and-cut nodes
+I_Set_Weight = 3.85032
+
+nSETS = 219
+
+sub_counter = 19
+
+Gurobi 8.1.0: optimal solution; objective 42.59336713
+249 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.598859
+3322 simplex iterations
+33 branch-and-cut nodes
+I_Set_Weight = 3.59886
+
+nSETS = 220
+
+sub_counter = 20
+
+Gurobi 8.1.0: optimal solution; objective 42.35790458
+250 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.807858
+2089 simplex iterations
+23 branch-and-cut nodes
+I_Set_Weight = 3.80786
+
+nSETS = 221
+
+sub_counter = 21
+
+Gurobi 8.1.0: optimal solution; objective 42.11981637
+202 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.424106
+3352 simplex iterations
+40 branch-and-cut nodes
+I_Set_Weight = 3.42411
+
+nSETS = 222
+
+sub_counter = 22
+
+Gurobi 8.1.0: optimal solution; objective 41.42168675
+280 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.812392
+1757 simplex iterations
+15 branch-and-cut nodes
+I_Set_Weight = 3.81239
+
+nSETS = 223
+
+sub_counter = 23
+
+Gurobi 8.1.0: optimal solution; objective 40.79253925
+252 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.531855
+2391 simplex iterations
+21 branch-and-cut nodes
+I_Set_Weight = 3.53186
+
+nSETS = 224
+
+sub_counter = 24
+
+Gurobi 8.1.0: optimal solution; objective 40.50289314
+214 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.423402
+3222 simplex iterations
+29 branch-and-cut nodes
+I_Set_Weight = 3.4234
+
+nSETS = 225
+
+sub_counter = 25
+
+Gurobi 8.1.0: optimal solution; objective 40.22832352
+256 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.54557
+2424 simplex iterations
+21 branch-and-cut nodes
+I_Set_Weight = 3.54557
+
+nSETS = 226
+
+sub_counter = 26
+
+Gurobi 8.1.0: optimal solution; objective 39.85028116
+248 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.07086
+4683 simplex iterations
+48 branch-and-cut nodes
+I_Set_Weight = 3.07086
+
+nSETS = 227
+
+sub_counter = 27
+
+Gurobi 8.1.0: optimal solution; objective 39.49303348
+291 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.890221
+5704 simplex iterations
+58 branch-and-cut nodes
+I_Set_Weight = 2.89022
+
+nSETS = 228
+
+sub_counter = 28
+
+Gurobi 8.1.0: optimal solution; objective 39.34586042
+271 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.945942
+4960 simplex iterations
+51 branch-and-cut nodes
+I_Set_Weight = 2.94594
+
+nSETS = 229
+
+sub_counter = 29
+
+Gurobi 8.1.0: optimal solution; objective 38.73602092
+308 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.90147
+6002 simplex iterations
+57 branch-and-cut nodes
+I_Set_Weight = 2.90147
+
+nSETS = 230
+
+sub_counter = 30
+
+Gurobi 8.1.0: optimal solution; objective 38.3261866
+276 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.189728
+3017 simplex iterations
+33 branch-and-cut nodes
+I_Set_Weight = 3.18973
+
+nSETS = 231
+
+sub_counter = 31
+
+Gurobi 8.1.0: optimal solution; objective 38.08592441
+280 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.158558
+3446 simplex iterations
+31 branch-and-cut nodes
+I_Set_Weight = 3.15856
+
+nSETS = 232
+
+sub_counter = 32
+
+Gurobi 8.1.0: optimal solution; objective 37.82435306
+261 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.661417
+7995 simplex iterations
+74 branch-and-cut nodes
+I_Set_Weight = 2.66142
+
+nSETS = 233
+
+sub_counter = 33
+
+Gurobi 8.1.0: optimal solution; objective 37.69893637
+270 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 3.019333
+4094 simplex iterations
+45 branch-and-cut nodes
+I_Set_Weight = 3.01933
+
+nSETS = 234
+
+sub_counter = 34
+
+Gurobi 8.1.0: optimal solution; objective 37.54321687
+254 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.860826
+5153 simplex iterations
+45 branch-and-cut nodes
+I_Set_Weight = 2.86083
+
+nSETS = 235
+
+sub_counter = 35
+
+Gurobi 8.1.0: optimal solution; objective 37.33533196
+267 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.522706
+10122 simplex iterations
+90 branch-and-cut nodes
+I_Set_Weight = 2.52271
+
+nSETS = 236
+
+sub_counter = 36
+
+Gurobi 8.1.0: optimal solution; objective 37.1992745
+304 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.66974
+7427 simplex iterations
+63 branch-and-cut nodes
+I_Set_Weight = 2.66974
+
+nSETS = 237
+
+sub_counter = 37
+
+Gurobi 8.1.0: optimal solution; objective 37.09675503
+273 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.661551
+7762 simplex iterations
+63 branch-and-cut nodes
+I_Set_Weight = 2.66155
+
+nSETS = 238
+
+sub_counter = 38
+
+Gurobi 8.1.0: optimal solution; objective 37.05985003
+282 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.611424
+8824 simplex iterations
+63 branch-and-cut nodes
+I_Set_Weight = 2.61142
+
+nSETS = 239
+
+sub_counter = 39
+
+Gurobi 8.1.0: optimal solution; objective 36.98044347
+292 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.818307
+5651 simplex iterations
+45 branch-and-cut nodes
+I_Set_Weight = 2.81831
+
+nSETS = 240
+
+sub_counter = 40
+
+Gurobi 8.1.0: optimal solution; objective 36.76842729
+298 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.577638
+8757 simplex iterations
+74 branch-and-cut nodes
+I_Set_Weight = 2.57764
+
+nSETS = 241
+
+sub_counter = 41
+
+Gurobi 8.1.0: optimal solution; objective 36.70214211
+300 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.44702
+11984 simplex iterations
+130 branch-and-cut nodes
+I_Set_Weight = 2.44702
+
+nSETS = 242
+
+sub_counter = 42
+
+Gurobi 8.1.0: optimal solution; objective 36.50268139
+297 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.455743
+10790 simplex iterations
+100 branch-and-cut nodes
+I_Set_Weight = 2.45574
+
+nSETS = 243
+
+sub_counter = 43
+
+Gurobi 8.1.0: optimal solution; objective 36.38053159
+303 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.38936
+11090 simplex iterations
+116 branch-and-cut nodes
+I_Set_Weight = 2.38936
+
+nSETS = 244
+
+sub_counter = 44
+
+Gurobi 8.1.0: optimal solution; objective 36.32073074
+316 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.609139
+6842 simplex iterations
+60 branch-and-cut nodes
+I_Set_Weight = 2.60914
+
+nSETS = 245
+
+sub_counter = 45
+
+Gurobi 8.1.0: optimal solution; objective 36.24719223
+318 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.521148
+9687 simplex iterations
+80 branch-and-cut nodes
+I_Set_Weight = 2.52115
+
+nSETS = 246
+
+sub_counter = 46
+
+Gurobi 8.1.0: optimal solution; objective 36.09479993
+301 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.650739
+7987 simplex iterations
+49 branch-and-cut nodes
+I_Set_Weight = 2.65074
+
+nSETS = 247
+
+sub_counter = 47
+
+Gurobi 8.1.0: optimal solution; objective 35.89566417
+343 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.429061
+11868 simplex iterations
+82 branch-and-cut nodes
+I_Set_Weight = 2.42906
+
+nSETS = 248
+
+sub_counter = 48
+
+Gurobi 8.1.0: optimal solution; objective 35.81436586
+315 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.567888
+7965 simplex iterations
+53 branch-and-cut nodes
+I_Set_Weight = 2.56789
+
+nSETS = 249
+
+sub_counter = 49
+
+Gurobi 8.1.0: optimal solution; objective 35.7724609
+329 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.411836
+11268 simplex iterations
+86 branch-and-cut nodes
+I_Set_Weight = 2.41184
+
+nSETS = 250
+
+sub_counter = 50
+
+Gurobi 8.1.0: optimal solution; objective 35.61907889
+321 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.522245
+9782 simplex iterations
+75 branch-and-cut nodes
+I_Set_Weight = 2.52225
+
+nSETS = 251
+
+sub_counter = 51
+
+Gurobi 8.1.0: optimal solution; objective 35.5430116
+336 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.156282
+14513 simplex iterations
+134 branch-and-cut nodes
+I_Set_Weight = 2.15628
+
+nSETS = 252
+
+sub_counter = 52
+
+Gurobi 8.1.0: optimal solution; objective 35.47118315
+299 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.387936
+9830 simplex iterations
+73 branch-and-cut nodes
+I_Set_Weight = 2.38794
+
+nSETS = 253
+
+sub_counter = 53
+
+Gurobi 8.1.0: optimal solution; objective 35.4137286
+331 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.003033
+23022 simplex iterations
+277 branch-and-cut nodes
+I_Set_Weight = 2.00303
+
+nSETS = 254
+
+sub_counter = 54
+
+Gurobi 8.1.0: optimal solution; objective 35.36378968
+343 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.124747
+17685 simplex iterations
+136 branch-and-cut nodes
+I_Set_Weight = 2.12475
+
+nSETS = 255
+
+sub_counter = 55
+
+Gurobi 8.1.0: optimal solution; objective 35.3307669
+339 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.519697
+8269 simplex iterations
+57 branch-and-cut nodes
+I_Set_Weight = 2.5197
+
+nSETS = 256
+
+sub_counter = 56
+
+Gurobi 8.1.0: optimal solution; objective 35.31159634
+336 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.055979
+21084 simplex iterations
+184 branch-and-cut nodes
+I_Set_Weight = 2.05598
+
+nSETS = 257
+
+sub_counter = 57
+
+Gurobi 8.1.0: optimal solution; objective 35.28451957
+359 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.156726
+19007 simplex iterations
+165 branch-and-cut nodes
+I_Set_Weight = 2.15673
+
+nSETS = 258
+
+sub_counter = 58
+
+Gurobi 8.1.0: optimal solution; objective 35.24029381
+393 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.172312
+16832 simplex iterations
+127 branch-and-cut nodes
+I_Set_Weight = 2.17231
+
+nSETS = 259
+
+sub_counter = 59
+
+Gurobi 8.1.0: optimal solution; objective 35.17396466
+316 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.225588
+15228 simplex iterations
+120 branch-and-cut nodes
+I_Set_Weight = 2.22559
+
+nSETS = 260
+
+sub_counter = 60
+
+Gurobi 8.1.0: optimal solution; objective 35.09823841
+357 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.18343
+18018 simplex iterations
+127 branch-and-cut nodes
+I_Set_Weight = 2.18343
+
+nSETS = 261
+
+sub_counter = 61
+
+Gurobi 8.1.0: optimal solution; objective 34.98657785
+361 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.058934
+20583 simplex iterations
+198 branch-and-cut nodes
+I_Set_Weight = 2.05893
+
+nSETS = 262
+
+sub_counter = 62
+
+Gurobi 8.1.0: optimal solution; objective 34.92641689
+366 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.048377
+20944 simplex iterations
+193 branch-and-cut nodes
+I_Set_Weight = 2.04838
+
+nSETS = 263
+
+sub_counter = 63
+
+Gurobi 8.1.0: optimal solution; objective 34.85650184
+359 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.177729
+17629 simplex iterations
+131 branch-and-cut nodes
+I_Set_Weight = 2.17773
+
+nSETS = 264
+
+sub_counter = 64
+
+Gurobi 8.1.0: optimal solution; objective 34.82287401
+352 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.91886
+26429 simplex iterations
+275 branch-and-cut nodes
+I_Set_Weight = 1.91886
+
+nSETS = 265
+
+sub_counter = 65
+
+Gurobi 8.1.0: optimal solution; objective 34.799839
+358 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.86712
+27966 simplex iterations
+352 branch-and-cut nodes
+I_Set_Weight = 1.86712
+
+nSETS = 266
+
+sub_counter = 66
+
+Gurobi 8.1.0: optimal solution; objective 34.76131977
+324 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.950068
+26526 simplex iterations
+264 branch-and-cut nodes
+I_Set_Weight = 1.95007
+
+nSETS = 267
+
+sub_counter = 67
+
+Gurobi 8.1.0: optimal solution; objective 34.70549189
+360 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.849269
+29876 simplex iterations
+311 branch-and-cut nodes
+I_Set_Weight = 1.84927
+
+nSETS = 268
+
+sub_counter = 68
+
+Gurobi 8.1.0: optimal solution; objective 34.642487
+334 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.920896
+27724 simplex iterations
+232 branch-and-cut nodes
+I_Set_Weight = 1.9209
+
+nSETS = 269
+
+sub_counter = 69
+
+Gurobi 8.1.0: optimal solution; objective 34.61371599
+378 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.082906
+22140 simplex iterations
+182 branch-and-cut nodes
+I_Set_Weight = 2.08291
+
+nSETS = 270
+
+sub_counter = 70
+
+Gurobi 8.1.0: optimal solution; objective 34.56566498
+344 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.425911
+11603 simplex iterations
+68 branch-and-cut nodes
+I_Set_Weight = 2.42591
+
+nSETS = 271
+
+sub_counter = 71
+
+Gurobi 8.1.0: optimal solution; objective 34.50650852
+383 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.985198
+26360 simplex iterations
+236 branch-and-cut nodes
+I_Set_Weight = 1.9852
+
+nSETS = 272
+
+sub_counter = 72
+
+Gurobi 8.1.0: optimal solution; objective 34.44727142
+373 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.871288
+30300 simplex iterations
+314 branch-and-cut nodes
+I_Set_Weight = 1.87129
+
+nSETS = 273
+
+sub_counter = 73
+
+Gurobi 8.1.0: optimal solution; objective 34.41118586
+341 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.934029
+26974 simplex iterations
+241 branch-and-cut nodes
+I_Set_Weight = 1.93403
+
+nSETS = 274
+
+sub_counter = 74
+
+Gurobi 8.1.0: optimal solution; objective 34.38672923
+352 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.851533
+30495 simplex iterations
+364 branch-and-cut nodes
+I_Set_Weight = 1.85153
+
+nSETS = 275
+
+sub_counter = 75
+
+Gurobi 8.1.0: optimal solution; objective 34.34739669
+358 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.80978
+36604 simplex iterations
+413 branch-and-cut nodes
+I_Set_Weight = 1.80978
+
+nSETS = 276
+
+sub_counter = 76
+
+Gurobi 8.1.0: optimal solution; objective 34.26258525
+362 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.870659
+30996 simplex iterations
+354 branch-and-cut nodes
+I_Set_Weight = 1.87066
+
+nSETS = 277
+
+sub_counter = 77
+
+Gurobi 8.1.0: optimal solution; objective 34.21760819
+394 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.95355
+31261 simplex iterations
+335 branch-and-cut nodes
+I_Set_Weight = 1.95355
+
+nSETS = 278
+
+sub_counter = 78
+
+Gurobi 8.1.0: optimal solution; objective 34.18268144
+338 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.839383
+30850 simplex iterations
+337 branch-and-cut nodes
+I_Set_Weight = 1.83938
+
+nSETS = 279
+
+sub_counter = 79
+
+Gurobi 8.1.0: optimal solution; objective 34.14195199
+349 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.918389
+25570 simplex iterations
+279 branch-and-cut nodes
+I_Set_Weight = 1.91839
+
+nSETS = 280
+
+sub_counter = 80
+
+Gurobi 8.1.0: optimal solution; objective 34.08904696
+354 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.921819
+27538 simplex iterations
+266 branch-and-cut nodes
+I_Set_Weight = 1.92182
+
+nSETS = 281
+
+sub_counter = 81
+
+Gurobi 8.1.0: optimal solution; objective 34.04889502
+368 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2.135562
+18363 simplex iterations
+111 branch-and-cut nodes
+I_Set_Weight = 2.13556
+
+nSETS = 282
+
+sub_counter = 82
+
+Gurobi 8.1.0: optimal solution; objective 34.00867195
+379 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.932309
+24618 simplex iterations
+214 branch-and-cut nodes
+I_Set_Weight = 1.93231
+
+nSETS = 283
+
+sub_counter = 83
+
+Gurobi 8.1.0: optimal solution; objective 33.97137038
+380 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.865666
+31889 simplex iterations
+319 branch-and-cut nodes
+I_Set_Weight = 1.86567
+
+nSETS = 284
+
+sub_counter = 84
+
+Gurobi 8.1.0: optimal solution; objective 33.94946142
+409 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.731699
+37288 simplex iterations
+448 branch-and-cut nodes
+I_Set_Weight = 1.7317
+
+nSETS = 285
+
+sub_counter = 85
+
+Gurobi 8.1.0: optimal solution; objective 33.92939984
+392 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.877849
+29593 simplex iterations
+296 branch-and-cut nodes
+I_Set_Weight = 1.87785
+
+nSETS = 286
+
+sub_counter = 86
+
+Gurobi 8.1.0: optimal solution; objective 33.86234127
+376 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.802739
+36078 simplex iterations
+407 branch-and-cut nodes
+I_Set_Weight = 1.80274
+
+nSETS = 287
+
+sub_counter = 87
+
+Gurobi 8.1.0: optimal solution; objective 33.8211256
+405 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.915712
+27965 simplex iterations
+278 branch-and-cut nodes
+I_Set_Weight = 1.91571
+
+nSETS = 288
+
+sub_counter = 88
+
+Gurobi 8.1.0: optimal solution; objective 33.79528783
+411 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.837703
+31673 simplex iterations
+323 branch-and-cut nodes
+I_Set_Weight = 1.8377
+
+nSETS = 289
+
+sub_counter = 89
+
+Gurobi 8.1.0: optimal solution; objective 33.76511306
+404 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.845782
+32050 simplex iterations
+283 branch-and-cut nodes
+I_Set_Weight = 1.84578
+
+nSETS = 290
+
+sub_counter = 90
+
+Gurobi 8.1.0: optimal solution; objective 33.71205559
+435 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.96272
+24745 simplex iterations
+213 branch-and-cut nodes
+I_Set_Weight = 1.96272
+
+nSETS = 291
+
+sub_counter = 91
+
+Gurobi 8.1.0: optimal solution; objective 33.69550075
+402 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.858851
+29925 simplex iterations
+303 branch-and-cut nodes
+I_Set_Weight = 1.85885
+
+nSETS = 292
+
+sub_counter = 92
+
+Gurobi 8.1.0: optimal solution; objective 33.6746043
+398 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.821456
+33394 simplex iterations
+332 branch-and-cut nodes
+I_Set_Weight = 1.82146
+
+nSETS = 293
+
+sub_counter = 93
+
+Gurobi 8.1.0: optimal solution; objective 33.63416762
+405 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.919952
+26926 simplex iterations
+229 branch-and-cut nodes
+I_Set_Weight = 1.91995
+
+nSETS = 294
+
+sub_counter = 94
+
+Gurobi 8.1.0: optimal solution; objective 33.61474788
+365 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.746387
+42343 simplex iterations
+489 branch-and-cut nodes
+I_Set_Weight = 1.74639
+
+nSETS = 295
+
+sub_counter = 95
+
+Gurobi 8.1.0: optimal solution; objective 33.58913771
+392 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.758686
+43319 simplex iterations
+492 branch-and-cut nodes
+I_Set_Weight = 1.75869
+
+nSETS = 296
+
+sub_counter = 96
+
+Gurobi 8.1.0: optimal solution; objective 33.56866232
+401 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.775288
+39245 simplex iterations
+430 branch-and-cut nodes
+I_Set_Weight = 1.77529
+
+nSETS = 297
+
+sub_counter = 97
+
+Gurobi 8.1.0: optimal solution; objective 33.54343308
+373 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.750705
+40001 simplex iterations
+486 branch-and-cut nodes
+I_Set_Weight = 1.7507
+
+nSETS = 298
+
+sub_counter = 98
+
+Gurobi 8.1.0: optimal solution; objective 33.52255424
+358 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.704973
+44526 simplex iterations
+534 branch-and-cut nodes
+I_Set_Weight = 1.70497
+
+nSETS = 299
+
+sub_counter = 99
+
+Gurobi 8.1.0: optimal solution; objective 33.51475271
+428 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.770292
+39410 simplex iterations
+455 branch-and-cut nodes
+I_Set_Weight = 1.77029
+
+nSETS = 300
+
+sub_counter = 100
+
+Gurobi 8.1.0: optimal solution; objective 33.50201688
+393 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.721493
+52442 simplex iterations
+711 branch-and-cut nodes
+I_Set_Weight = 1.72149
+
+nSETS = 301
+
+sub_counter = 101
+
+Gurobi 8.1.0: optimal solution; objective 33.49056583
+375 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.66896
+51173 simplex iterations
+666 branch-and-cut nodes
+I_Set_Weight = 1.66896
+
+nSETS = 302
+
+sub_counter = 102
+
+Gurobi 8.1.0: optimal solution; objective 33.4824389
+423 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.735889
+41751 simplex iterations
+483 branch-and-cut nodes
+I_Set_Weight = 1.73589
+
+nSETS = 303
+
+sub_counter = 103
+
+Gurobi 8.1.0: optimal solution; objective 33.46466794
+399 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.744176
+43149 simplex iterations
+501 branch-and-cut nodes
+I_Set_Weight = 1.74418
+
+nSETS = 304
+
+sub_counter = 104
+
+Gurobi 8.1.0: optimal solution; objective 33.44622428
+389 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.802755
+36171 simplex iterations
+352 branch-and-cut nodes
+I_Set_Weight = 1.80276
+
+nSETS = 305
+
+sub_counter = 105
+
+Gurobi 8.1.0: optimal solution; objective 33.42051644
+382 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.6412
+53806 simplex iterations
+683 branch-and-cut nodes
+I_Set_Weight = 1.6412
+
+nSETS = 306
+
+sub_counter = 106
+
+Gurobi 8.1.0: optimal solution; objective 33.39186003
+406 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.688309
+45353 simplex iterations
+545 branch-and-cut nodes
+I_Set_Weight = 1.68831
+
+nSETS = 307
+
+sub_counter = 107
+
+Gurobi 8.1.0: optimal solution; objective 33.37940812
+440 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.828963
+34930 simplex iterations
+326 branch-and-cut nodes
+I_Set_Weight = 1.82896
+
+nSETS = 308
+
+sub_counter = 108
+
+Gurobi 8.1.0: optimal solution; objective 33.3706952
+413 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.664942
+46527 simplex iterations
+525 branch-and-cut nodes
+I_Set_Weight = 1.66494
+
+nSETS = 309
+
+sub_counter = 109
+
+Gurobi 8.1.0: optimal solution; objective 33.3574628
+378 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.746936
+38901 simplex iterations
+398 branch-and-cut nodes
+I_Set_Weight = 1.74694
+
+nSETS = 310
+
+sub_counter = 110
+
+Gurobi 8.1.0: optimal solution; objective 33.32553607
+429 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.721698
+42078 simplex iterations
+495 branch-and-cut nodes
+I_Set_Weight = 1.7217
+
+nSETS = 311
+
+sub_counter = 111
+
+Gurobi 8.1.0: optimal solution; objective 33.2977074
+424 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.676528
+46796 simplex iterations
+540 branch-and-cut nodes
+I_Set_Weight = 1.67653
+
+nSETS = 312
+
+sub_counter = 112
+
+Gurobi 8.1.0: optimal solution; objective 33.27497436
+409 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.835763
+31890 simplex iterations
+240 branch-and-cut nodes
+I_Set_Weight = 1.83576
+
+nSETS = 313
+
+sub_counter = 113
+
+Gurobi 8.1.0: optimal solution; objective 33.23180959
+401 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.776592
+36364 simplex iterations
+325 branch-and-cut nodes
+I_Set_Weight = 1.77659
+
+nSETS = 314
+
+sub_counter = 114
+
+Gurobi 8.1.0: optimal solution; objective 33.21954208
+455 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.752324
+41067 simplex iterations
+371 branch-and-cut nodes
+I_Set_Weight = 1.75232
+
+nSETS = 315
+
+sub_counter = 115
+
+Gurobi 8.1.0: optimal solution; objective 33.18601932
+417 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.636722
+51357 simplex iterations
+638 branch-and-cut nodes
+I_Set_Weight = 1.63672
+
+nSETS = 316
+
+sub_counter = 116
+
+Gurobi 8.1.0: optimal solution; objective 33.17461439
+410 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.670947
+49033 simplex iterations
+524 branch-and-cut nodes
+I_Set_Weight = 1.67095
+
+nSETS = 317
+
+sub_counter = 117
+
+Gurobi 8.1.0: optimal solution; objective 33.12437603
+406 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.728745
+41669 simplex iterations
+439 branch-and-cut nodes
+I_Set_Weight = 1.72874
+
+nSETS = 318
+
+sub_counter = 118
+
+Gurobi 8.1.0: optimal solution; objective 33.11727857
+425 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.574074
+59144 simplex iterations
+799 branch-and-cut nodes
+I_Set_Weight = 1.57407
+
+nSETS = 319
+
+sub_counter = 119
+
+Gurobi 8.1.0: optimal solution; objective 33.09914768
+413 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.720847
+48089 simplex iterations
+498 branch-and-cut nodes
+I_Set_Weight = 1.72085
+
+nSETS = 320
+
+sub_counter = 120
+
+Gurobi 8.1.0: optimal solution; objective 33.06246169
+404 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.706648
+48693 simplex iterations
+465 branch-and-cut nodes
+I_Set_Weight = 1.70665
+
+nSETS = 321
+
+sub_counter = 121
+
+Gurobi 8.1.0: optimal solution; objective 33.03201575
+440 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.682834
+47886 simplex iterations
+522 branch-and-cut nodes
+I_Set_Weight = 1.68283
+
+nSETS = 322
+
+sub_counter = 122
+
+Gurobi 8.1.0: optimal solution; objective 33.01055316
+418 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.648776
+52751 simplex iterations
+629 branch-and-cut nodes
+I_Set_Weight = 1.64878
+
+nSETS = 323
+
+sub_counter = 123
+
+Gurobi 8.1.0: optimal solution; objective 32.97594839
+468 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.644492
+53070 simplex iterations
+621 branch-and-cut nodes
+I_Set_Weight = 1.64449
+
+nSETS = 324
+
+sub_counter = 124
+
+Gurobi 8.1.0: optimal solution; objective 32.96094428
+448 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.5656
+63657 simplex iterations
+872 branch-and-cut nodes
+I_Set_Weight = 1.5656
+
+nSETS = 325
+
+sub_counter = 125
+
+Gurobi 8.1.0: optimal solution; objective 32.94494288
+441 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.552599
+67380 simplex iterations
+915 branch-and-cut nodes
+I_Set_Weight = 1.5526
+
+nSETS = 326
+
+sub_counter = 126
+
+Gurobi 8.1.0: optimal solution; objective 32.90345387
+496 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.64446
+56873 simplex iterations
+682 branch-and-cut nodes
+I_Set_Weight = 1.64446
+
+nSETS = 327
+
+sub_counter = 127
+
+Gurobi 8.1.0: optimal solution; objective 32.88116702
+453 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.633708
+57404 simplex iterations
+656 branch-and-cut nodes
+I_Set_Weight = 1.63371
+
+nSETS = 328
+
+sub_counter = 128
+
+Gurobi 8.1.0: optimal solution; objective 32.86119526
+474 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.658037
+63289 simplex iterations
+876 branch-and-cut nodes
+I_Set_Weight = 1.65804
+
+nSETS = 329
+
+sub_counter = 129
+
+Gurobi 8.1.0: optimal solution; objective 32.84057085
+432 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.669875
+49489 simplex iterations
+533 branch-and-cut nodes
+I_Set_Weight = 1.66987
+
+nSETS = 330
+
+sub_counter = 130
+
+Gurobi 8.1.0: optimal solution; objective 32.79105678
+436 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.463728
+80593 simplex iterations
+1147 branch-and-cut nodes
+I_Set_Weight = 1.46373
+
+nSETS = 331
+
+sub_counter = 131
+
+Gurobi 8.1.0: optimal solution; objective 32.73879255
+442 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.568486
+63003 simplex iterations
+809 branch-and-cut nodes
+I_Set_Weight = 1.56849
+
+nSETS = 332
+
+sub_counter = 132
+
+Gurobi 8.1.0: optimal solution; objective 32.70819136
+458 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.552967
+61123 simplex iterations
+825 branch-and-cut nodes
+I_Set_Weight = 1.55297
+
+nSETS = 333
+
+sub_counter = 133
+
+Gurobi 8.1.0: optimal solution; objective 32.69317758
+444 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.688899
+46520 simplex iterations
+501 branch-and-cut nodes
+I_Set_Weight = 1.6889
+
+nSETS = 334
+
+sub_counter = 134
+
+Gurobi 8.1.0: optimal solution; objective 32.64463454
+438 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.560774
+64099 simplex iterations
+805 branch-and-cut nodes
+I_Set_Weight = 1.56077
+
+nSETS = 335
+
+sub_counter = 135
+
+Gurobi 8.1.0: optimal solution; objective 32.62626373
+458 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.498061
+74840 simplex iterations
+1088 branch-and-cut nodes
+I_Set_Weight = 1.49806
+
+nSETS = 336
+
+sub_counter = 136
+
+Gurobi 8.1.0: optimal solution; objective 32.5840329
+465 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.538504
+73595 simplex iterations
+1023 branch-and-cut nodes
+I_Set_Weight = 1.5385
+
+nSETS = 337
+
+sub_counter = 137
+
+Gurobi 8.1.0: optimal solution; objective 32.56538562
+429 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.541737
+72820 simplex iterations
+1055 branch-and-cut nodes
+I_Set_Weight = 1.54174
+
+nSETS = 338
+
+sub_counter = 138
+
+Gurobi 8.1.0: optimal solution; objective 32.53679938
+430 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.603928
+57190 simplex iterations
+626 branch-and-cut nodes
+I_Set_Weight = 1.60393
+
+nSETS = 339
+
+sub_counter = 139
+
+Gurobi 8.1.0: optimal solution; objective 32.5168585
+402 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.532656
+65771 simplex iterations
+880 branch-and-cut nodes
+I_Set_Weight = 1.53266
+
+nSETS = 340
+
+sub_counter = 140
+
+Gurobi 8.1.0: optimal solution; objective 32.49355258
+468 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.5541
+60794 simplex iterations
+796 branch-and-cut nodes
+I_Set_Weight = 1.5541
+
+nSETS = 341
+
+sub_counter = 141
+
+Gurobi 8.1.0: optimal solution; objective 32.46801443
+468 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.542763
+70710 simplex iterations
+988 branch-and-cut nodes
+I_Set_Weight = 1.54276
+
+nSETS = 342
+
+sub_counter = 142
+
+Gurobi 8.1.0: optimal solution; objective 32.41989326
+456 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.534256
+69297 simplex iterations
+885 branch-and-cut nodes
+I_Set_Weight = 1.53426
+
+nSETS = 343
+
+sub_counter = 143
+
+Gurobi 8.1.0: optimal solution; objective 32.38936249
+431 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.528315
+66532 simplex iterations
+946 branch-and-cut nodes
+I_Set_Weight = 1.52832
+
+nSETS = 344
+
+sub_counter = 144
+
+Gurobi 8.1.0: optimal solution; objective 32.37495835
+408 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.613958
+54310 simplex iterations
+614 branch-and-cut nodes
+I_Set_Weight = 1.61396
+
+nSETS = 345
+
+sub_counter = 145
+
+Gurobi 8.1.0: optimal solution; objective 32.35955829
+431 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.448934
+84636 simplex iterations
+1330 branch-and-cut nodes
+I_Set_Weight = 1.44893
+
+nSETS = 346
+
+sub_counter = 146
+
+Gurobi 8.1.0: optimal solution; objective 32.35048107
+423 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.478936
+84428 simplex iterations
+1145 branch-and-cut nodes
+I_Set_Weight = 1.47894
+
+nSETS = 347
+
+sub_counter = 147
+
+Gurobi 8.1.0: optimal solution; objective 32.31656886
+440 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.493547
+72958 simplex iterations
+1034 branch-and-cut nodes
+I_Set_Weight = 1.49355
+
+nSETS = 348
+
+sub_counter = 148
+
+Gurobi 8.1.0: optimal solution; objective 32.27404196
+433 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.478
+78215 simplex iterations
+1098 branch-and-cut nodes
+I_Set_Weight = 1.478
+
+nSETS = 349
+
+sub_counter = 149
+
+Gurobi 8.1.0: optimal solution; objective 32.25917499
+424 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.561687
+64570 simplex iterations
+805 branch-and-cut nodes
+I_Set_Weight = 1.56169
+
+nSETS = 350
+
+sub_counter = 150
+
+Gurobi 8.1.0: optimal solution; objective 32.24415861
+438 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.569442
+60497 simplex iterations
+741 branch-and-cut nodes
+I_Set_Weight = 1.56944
+
+nSETS = 351
+
+sub_counter = 151
+
+Gurobi 8.1.0: optimal solution; objective 32.21620497
+450 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.569528
+57668 simplex iterations
+703 branch-and-cut nodes
+I_Set_Weight = 1.56953
+
+nSETS = 352
+
+sub_counter = 152
+
+Gurobi 8.1.0: optimal solution; objective 32.19003842
+461 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.496218
+70279 simplex iterations
+945 branch-and-cut nodes
+I_Set_Weight = 1.49622
+
+nSETS = 353
+
+sub_counter = 153
+
+Gurobi 8.1.0: optimal solution; objective 32.18193461
+469 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.557017
+58605 simplex iterations
+684 branch-and-cut nodes
+I_Set_Weight = 1.55702
+
+nSETS = 354
+
+sub_counter = 154
+
+Gurobi 8.1.0: optimal solution; objective 32.16440581
+445 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.520203
+71371 simplex iterations
+940 branch-and-cut nodes
+I_Set_Weight = 1.5202
+
+nSETS = 355
+
+sub_counter = 155
+
+Gurobi 8.1.0: optimal solution; objective 32.15403879
+437 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.573884
+60410 simplex iterations
+705 branch-and-cut nodes
+I_Set_Weight = 1.57388
+
+nSETS = 356
+
+sub_counter = 156
+
+Gurobi 8.1.0: optimal solution; objective 32.1415227
+484 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.515283
+77913 simplex iterations
+1158 branch-and-cut nodes
+I_Set_Weight = 1.51528
+
+nSETS = 357
+
+sub_counter = 157
+
+Gurobi 8.1.0: optimal solution; objective 32.13062309
+506 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.44902
+81628 simplex iterations
+1221 branch-and-cut nodes
+I_Set_Weight = 1.44902
+
+nSETS = 358
+
+sub_counter = 158
+
+Gurobi 8.1.0: optimal solution; objective 32.11458564
+472 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.45235
+85000 simplex iterations
+1231 branch-and-cut nodes
+I_Set_Weight = 1.45235
+
+nSETS = 359
+
+sub_counter = 159
+
+Gurobi 8.1.0: optimal solution; objective 32.10935154
+489 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.477558
+74377 simplex iterations
+999 branch-and-cut nodes
+I_Set_Weight = 1.47756
+
+nSETS = 360
+
+sub_counter = 160
+
+Gurobi 8.1.0: optimal solution; objective 32.08634033
+466 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.53474
+68921 simplex iterations
+835 branch-and-cut nodes
+I_Set_Weight = 1.53474
+
+nSETS = 361
+
+sub_counter = 161
+
+Gurobi 8.1.0: optimal solution; objective 32.07311941
+484 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.40168
+90366 simplex iterations
+1304 branch-and-cut nodes
+I_Set_Weight = 1.40168
+
+nSETS = 362
+
+sub_counter = 162
+
+Gurobi 8.1.0: optimal solution; objective 32.06418435
+457 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.479938
+77167 simplex iterations
+1110 branch-and-cut nodes
+I_Set_Weight = 1.47994
+
+nSETS = 363
+
+sub_counter = 163
+
+Gurobi 8.1.0: optimal solution; objective 32.05089848
+469 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.438577
+83048 simplex iterations
+1198 branch-and-cut nodes
+I_Set_Weight = 1.43858
+
+nSETS = 364
+
+sub_counter = 164
+
+Gurobi 8.1.0: optimal solution; objective 32.04192763
+490 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.383167
+92442 simplex iterations
+1483 branch-and-cut nodes
+I_Set_Weight = 1.38317
+
+nSETS = 365
+
+sub_counter = 165
+
+Gurobi 8.1.0: optimal solution; objective 32.03136721
+472 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.366404
+103437 simplex iterations
+1683 branch-and-cut nodes
+I_Set_Weight = 1.3664
+
+nSETS = 366
+
+sub_counter = 166
+
+Gurobi 8.1.0: optimal solution; objective 32.02343576
+476 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.342174
+117697 simplex iterations
+2128 branch-and-cut nodes
+I_Set_Weight = 1.34217
+
+nSETS = 367
+
+sub_counter = 167
+
+Gurobi 8.1.0: optimal solution; objective 32.00743393
+502 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.438257
+84628 simplex iterations
+1208 branch-and-cut nodes
+I_Set_Weight = 1.43826
+
+nSETS = 368
+
+sub_counter = 168
+
+Gurobi 8.1.0: optimal solution; objective 31.99423261
+476 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.447481
+81671 simplex iterations
+1213 branch-and-cut nodes
+I_Set_Weight = 1.44748
+
+nSETS = 369
+
+sub_counter = 169
+
+Gurobi 8.1.0: optimal solution; objective 31.98637433
+469 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.434721
+86587 simplex iterations
+1267 branch-and-cut nodes
+I_Set_Weight = 1.43472
+
+nSETS = 370
+
+sub_counter = 170
+
+Gurobi 8.1.0: optimal solution; objective 31.97642837
+466 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.452429
+79512 simplex iterations
+1164 branch-and-cut nodes
+I_Set_Weight = 1.45243
+
+nSETS = 371
+
+sub_counter = 171
+
+Gurobi 8.1.0: optimal solution; objective 31.9679619
+473 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.42294
+93269 simplex iterations
+1434 branch-and-cut nodes
+I_Set_Weight = 1.42294
+
+nSETS = 372
+
+sub_counter = 172
+
+Gurobi 8.1.0: optimal solution; objective 31.9479467
+495 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.405448
+99522 simplex iterations
+1559 branch-and-cut nodes
+I_Set_Weight = 1.40545
+
+nSETS = 373
+
+sub_counter = 173
+
+Gurobi 8.1.0: optimal solution; objective 31.92752693
+477 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.482099
+79002 simplex iterations
+953 branch-and-cut nodes
+I_Set_Weight = 1.4821
+
+nSETS = 374
+
+sub_counter = 174
+
+Gurobi 8.1.0: optimal solution; objective 31.913262
+485 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.452492
+86774 simplex iterations
+1288 branch-and-cut nodes
+I_Set_Weight = 1.45249
+
+nSETS = 375
+
+sub_counter = 175
+
+Gurobi 8.1.0: optimal solution; objective 31.90533882
+466 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.512375
+73327 simplex iterations
+913 branch-and-cut nodes
+I_Set_Weight = 1.51238
+
+nSETS = 376
+
+sub_counter = 176
+
+Gurobi 8.1.0: optimal solution; objective 31.89764825
+483 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.480468
+79703 simplex iterations
+1024 branch-and-cut nodes
+I_Set_Weight = 1.48047
+
+nSETS = 377
+
+sub_counter = 177
+
+Gurobi 8.1.0: optimal solution; objective 31.88056344
+489 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.491468
+83269 simplex iterations
+1241 branch-and-cut nodes
+I_Set_Weight = 1.49147
+
+nSETS = 378
+
+sub_counter = 178
+
+Gurobi 8.1.0: optimal solution; objective 31.83091632
+470 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.426033
+93921 simplex iterations
+1398 branch-and-cut nodes
+I_Set_Weight = 1.42603
+
+nSETS = 379
+
+sub_counter = 179
+
+Gurobi 8.1.0: optimal solution; objective 31.81954962
+472 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.408903
+91020 simplex iterations
+1313 branch-and-cut nodes
+I_Set_Weight = 1.4089
+
+nSETS = 380
+
+sub_counter = 180
+
+Gurobi 8.1.0: optimal solution; objective 31.80671529
+485 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.46361
+90428 simplex iterations
+1337 branch-and-cut nodes
+I_Set_Weight = 1.46361
+
+nSETS = 381
+
+sub_counter = 181
+
+Gurobi 8.1.0: optimal solution; objective 31.78738503
+500 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.488306
+74365 simplex iterations
+905 branch-and-cut nodes
+I_Set_Weight = 1.48831
+
+nSETS = 382
+
+sub_counter = 182
+
+Gurobi 8.1.0: optimal solution; objective 31.7666675
+525 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.35698
+115067 simplex iterations
+1826 branch-and-cut nodes
+I_Set_Weight = 1.35698
+
+nSETS = 383
+
+sub_counter = 183
+
+Gurobi 8.1.0: optimal solution; objective 31.73947127
+491 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.329579
+112790 simplex iterations
+1881 branch-and-cut nodes
+I_Set_Weight = 1.32958
+
+nSETS = 384
+
+sub_counter = 184
+
+Gurobi 8.1.0: optimal solution; objective 31.73378207
+517 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.328956
+117368 simplex iterations
+1909 branch-and-cut nodes
+I_Set_Weight = 1.32896
+
+nSETS = 385
+
+sub_counter = 185
+
+Gurobi 8.1.0: optimal solution; objective 31.71101612
+535 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.30109
+121643 simplex iterations
+2141 branch-and-cut nodes
+I_Set_Weight = 1.30109
+
+nSETS = 386
+
+sub_counter = 186
+
+Gurobi 8.1.0: optimal solution; objective 31.70624087
+491 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.346057
+114818 simplex iterations
+2043 branch-and-cut nodes
+I_Set_Weight = 1.34606
+
+nSETS = 387
+
+sub_counter = 187
+
+Gurobi 8.1.0: optimal solution; objective 31.69582281
+508 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.321295
+116240 simplex iterations
+1929 branch-and-cut nodes
+I_Set_Weight = 1.3213
+
+nSETS = 388
+
+sub_counter = 188
+
+Gurobi 8.1.0: optimal solution; objective 31.6745129
+545 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.332247
+118451 simplex iterations
+1827 branch-and-cut nodes
+I_Set_Weight = 1.33225
+
+nSETS = 389
+
+sub_counter = 189
+
+Gurobi 8.1.0: optimal solution; objective 31.6676759
+509 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.299921
+121455 simplex iterations
+2108 branch-and-cut nodes
+I_Set_Weight = 1.29992
+
+nSETS = 390
+
+sub_counter = 190
+
+Gurobi 8.1.0: optimal solution; objective 31.65688802
+479 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.307929
+122577 simplex iterations
+2097 branch-and-cut nodes
+I_Set_Weight = 1.30793
+
+nSETS = 391
+
+sub_counter = 191
+
+Gurobi 8.1.0: optimal solution; objective 31.64889097
+558 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.380202
+103450 simplex iterations
+1452 branch-and-cut nodes
+I_Set_Weight = 1.3802
+
+nSETS = 392
+
+sub_counter = 192
+
+Gurobi 8.1.0: optimal solution; objective 31.64066334
+540 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.283449
+134195 simplex iterations
+2430 branch-and-cut nodes
+I_Set_Weight = 1.28345
+
+nSETS = 393
+
+sub_counter = 193
+
+Gurobi 8.1.0: optimal solution; objective 31.61250159
+537 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.342469
+122772 simplex iterations
+2212 branch-and-cut nodes
+I_Set_Weight = 1.34247
+
+nSETS = 394
+
+sub_counter = 194
+
+Gurobi 8.1.0: optimal solution; objective 31.58808965
+516 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.36974
+115947 simplex iterations
+2009 branch-and-cut nodes
+I_Set_Weight = 1.36974
+
+nSETS = 395
+
+sub_counter = 195
+
+Gurobi 8.1.0: optimal solution; objective 31.56936711
+487 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.328108
+114742 simplex iterations
+1862 branch-and-cut nodes
+I_Set_Weight = 1.32811
+
+nSETS = 396
+
+sub_counter = 196
+
+Gurobi 8.1.0: optimal solution; objective 31.55830404
+463 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.387031
+112380 simplex iterations
+1828 branch-and-cut nodes
+I_Set_Weight = 1.38703
+
+nSETS = 397
+
+sub_counter = 197
+
+Gurobi 8.1.0: optimal solution; objective 31.53230869
+544 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.283456
+121890 simplex iterations
+2167 branch-and-cut nodes
+I_Set_Weight = 1.28346
+
+nSETS = 398
+
+sub_counter = 198
+
+Gurobi 8.1.0: optimal solution; objective 31.49691121
+546 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.261063
+138750 simplex iterations
+2767 branch-and-cut nodes
+I_Set_Weight = 1.26106
+
+nSETS = 399
+
+sub_counter = 199
+
+Gurobi 8.1.0: optimal solution; objective 31.48755988
+520 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.275907
+136364 simplex iterations
+2423 branch-and-cut nodes
+I_Set_Weight = 1.27591
+
+nSETS = 400
+
+sub_counter = 200
+
+Gurobi 8.1.0: optimal solution; objective 31.47740942
+510 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.295586
+134139 simplex iterations
+2463 branch-and-cut nodes
+I_Set_Weight = 1.29559
+
+nSETS = 401
+
+sub_counter = 201
+
+Gurobi 8.1.0: optimal solution; objective 31.4649101
+539 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.266686
+137776 simplex iterations
+2709 branch-and-cut nodes
+I_Set_Weight = 1.26669
+
+nSETS = 402
+
+sub_counter = 202
+
+Gurobi 8.1.0: optimal solution; objective 31.46093207
+561 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.258869
+138077 simplex iterations
+2739 branch-and-cut nodes
+I_Set_Weight = 1.25887
+
+nSETS = 403
+
+sub_counter = 203
+
+Gurobi 8.1.0: optimal solution; objective 31.45258574
+515 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.299423
+127795 simplex iterations
+2320 branch-and-cut nodes
+I_Set_Weight = 1.29942
+
+nSETS = 404
+
+sub_counter = 204
+
+Gurobi 8.1.0: optimal solution; objective 31.43461077
+505 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.294727
+120485 simplex iterations
+2078 branch-and-cut nodes
+I_Set_Weight = 1.29473
+
+nSETS = 405
+
+sub_counter = 205
+
+Gurobi 8.1.0: optimal solution; objective 31.43332711
+527 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.244256
+140545 simplex iterations
+2639 branch-and-cut nodes
+I_Set_Weight = 1.24426
+
+nSETS = 406
+
+sub_counter = 206
+
+Gurobi 8.1.0: optimal solution; objective 31.42174122
+504 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.300943
+123702 simplex iterations
+2061 branch-and-cut nodes
+I_Set_Weight = 1.30094
+
+nSETS = 407
+
+sub_counter = 207
+
+Gurobi 8.1.0: optimal solution; objective 31.40226388
+519 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.286107
+129942 simplex iterations
+2249 branch-and-cut nodes
+I_Set_Weight = 1.28611
+
+nSETS = 408
+
+sub_counter = 208
+
+Gurobi 8.1.0: optimal solution; objective 31.39692457
+523 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.308566
+134512 simplex iterations
+2440 branch-and-cut nodes
+I_Set_Weight = 1.30857
+
+nSETS = 409
+
+sub_counter = 209
+
+Gurobi 8.1.0: optimal solution; objective 31.38462766
+505 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.244556
+142658 simplex iterations
+2634 branch-and-cut nodes
+I_Set_Weight = 1.24456
+
+nSETS = 410
+
+sub_counter = 210
+
+Gurobi 8.1.0: optimal solution; objective 31.37795965
+535 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.308645
+124379 simplex iterations
+2201 branch-and-cut nodes
+I_Set_Weight = 1.30865
+
+nSETS = 411
+
+sub_counter = 211
+
+Gurobi 8.1.0: optimal solution; objective 31.3719328
+519 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.28389
+126601 simplex iterations
+2189 branch-and-cut nodes
+I_Set_Weight = 1.28389
+
+nSETS = 412
+
+sub_counter = 212
+
+Gurobi 8.1.0: optimal solution; objective 31.36812487
+507 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.31414
+114086 simplex iterations
+1874 branch-and-cut nodes
+I_Set_Weight = 1.31414
+
+nSETS = 413
+
+sub_counter = 213
+
+Gurobi 8.1.0: optimal solution; objective 31.35915456
+515 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.305093
+196642 simplex iterations
+3221 branch-and-cut nodes
+I_Set_Weight = 1.30509
+
+nSETS = 414
+
+sub_counter = 214
+
+Gurobi 8.1.0: optimal solution; objective 31.35643054
+527 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.30105
+123632 simplex iterations
+2159 branch-and-cut nodes
+I_Set_Weight = 1.30105
+
+nSETS = 415
+
+sub_counter = 215
+
+Gurobi 8.1.0: optimal solution; objective 31.33731364
+523 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.317044
+113066 simplex iterations
+1880 branch-and-cut nodes
+I_Set_Weight = 1.31704
+
+nSETS = 416
+
+sub_counter = 216
+
+Gurobi 8.1.0: optimal solution; objective 31.32383989
+522 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.247033
+217515 simplex iterations
+3574 branch-and-cut nodes
+I_Set_Weight = 1.24703
+
+nSETS = 417
+
+sub_counter = 217
+
+Gurobi 8.1.0: optimal solution; objective 31.31399995
+545 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.30492
+118792 simplex iterations
+1968 branch-and-cut nodes
+I_Set_Weight = 1.30492
+
+nSETS = 418
+
+sub_counter = 218
+
+Gurobi 8.1.0: optimal solution; objective 31.30908755
+528 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.251711
+135509 simplex iterations
+2584 branch-and-cut nodes
+I_Set_Weight = 1.25171
+
+nSETS = 419
+
+sub_counter = 219
+
+Gurobi 8.1.0: optimal solution; objective 31.30394089
+543 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.231788
+216557 simplex iterations
+3808 branch-and-cut nodes
+I_Set_Weight = 1.23179
+
+nSETS = 420
+
+sub_counter = 220
+
+Gurobi 8.1.0: optimal solution; objective 31.29611429
+526 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.285377
+128018 simplex iterations
+2276 branch-and-cut nodes
+I_Set_Weight = 1.28538
+
+nSETS = 421
+
+sub_counter = 221
+
+Gurobi 8.1.0: optimal solution; objective 31.29230452
+554 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.251306
+218047 simplex iterations
+3606 branch-and-cut nodes
+I_Set_Weight = 1.25131
+
+nSETS = 422
+
+sub_counter = 222
+
+Gurobi 8.1.0: optimal solution; objective 31.28100895
+561 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.23424
+231189 simplex iterations
+3816 branch-and-cut nodes
+I_Set_Weight = 1.23424
+
+nSETS = 423
+
+sub_counter = 223
+
+Gurobi 8.1.0: optimal solution; objective 31.27441845
+568 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.241378
+149426 simplex iterations
+2841 branch-and-cut nodes
+I_Set_Weight = 1.24138
+
+nSETS = 424
+
+sub_counter = 224
+
+Gurobi 8.1.0: optimal solution; objective 31.27136682
+544 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.299062
+141467 simplex iterations
+2721 branch-and-cut nodes
+I_Set_Weight = 1.29906
+
+nSETS = 425
+
+sub_counter = 225
+
+Gurobi 8.1.0: optimal solution; objective 31.26423109
+501 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.285071
+203944 simplex iterations
+3253 branch-and-cut nodes
+I_Set_Weight = 1.28507
+
+nSETS = 426
+
+sub_counter = 226
+
+Gurobi 8.1.0: optimal solution; objective 31.25848162
+531 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.327956
+109629 simplex iterations
+1747 branch-and-cut nodes
+I_Set_Weight = 1.32796
+
+nSETS = 427
+
+sub_counter = 227
+
+Gurobi 8.1.0: optimal solution; objective 31.25135462
+531 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.247461
+225098 simplex iterations
+3884 branch-and-cut nodes
+I_Set_Weight = 1.24746
+
+nSETS = 428
+
+sub_counter = 228
+
+Gurobi 8.1.0: optimal solution; objective 31.24698481
+552 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.23303
+144743 simplex iterations
+2748 branch-and-cut nodes
+I_Set_Weight = 1.23303
+
+nSETS = 429
+
+sub_counter = 229
+
+Gurobi 8.1.0: optimal solution; objective 31.24685152
+504 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.241021
+142602 simplex iterations
+2744 branch-and-cut nodes
+I_Set_Weight = 1.24102
+
+nSETS = 430
+
+sub_counter = 230
+
+Gurobi 8.1.0: optimal solution; objective 31.23957075
+534 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.258653
+131546 simplex iterations
+2300 branch-and-cut nodes
+I_Set_Weight = 1.25865
+
+nSETS = 431
+
+sub_counter = 231
+
+Gurobi 8.1.0: optimal solution; objective 31.23626848
+517 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.217814
+150304 simplex iterations
+2900 branch-and-cut nodes
+I_Set_Weight = 1.21781
+
+nSETS = 432
+
+sub_counter = 232
+
+Gurobi 8.1.0: optimal solution; objective 31.23082037
+500 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.228842
+144734 simplex iterations
+2606 branch-and-cut nodes
+I_Set_Weight = 1.22884
+
+nSETS = 433
+
+sub_counter = 233
+
+Gurobi 8.1.0: optimal solution; objective 31.22106652
+543 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.221928
+231201 simplex iterations
+3835 branch-and-cut nodes
+I_Set_Weight = 1.22193
+
+nSETS = 434
+
+sub_counter = 234
+
+Gurobi 8.1.0: optimal solution; objective 31.21635246
+573 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.243203
+138357 simplex iterations
+2507 branch-and-cut nodes
+I_Set_Weight = 1.2432
+
+nSETS = 435
+
+sub_counter = 235
+
+Gurobi 8.1.0: optimal solution; objective 31.20947637
+567 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.274648
+131282 simplex iterations
+2400 branch-and-cut nodes
+I_Set_Weight = 1.27465
+
+nSETS = 436
+
+sub_counter = 236
+
+Gurobi 8.1.0: optimal solution; objective 31.20604903
+554 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.289981
+123601 simplex iterations
+2033 branch-and-cut nodes
+I_Set_Weight = 1.28998
+
+nSETS = 437
+
+sub_counter = 237
+
+Gurobi 8.1.0: optimal solution; objective 31.1965662
+536 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.335396
+115529 simplex iterations
+1707 branch-and-cut nodes
+I_Set_Weight = 1.3354
+
+nSETS = 438
+
+sub_counter = 238
+
+Gurobi 8.1.0: optimal solution; objective 31.19020906
+510 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.227158
+229732 simplex iterations
+3718 branch-and-cut nodes
+I_Set_Weight = 1.22716
+
+nSETS = 439
+
+sub_counter = 239
+
+Gurobi 8.1.0: optimal solution; objective 31.18593548
+545 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.270436
+143893 simplex iterations
+2685 branch-and-cut nodes
+I_Set_Weight = 1.27044
+
+nSETS = 440
+
+sub_counter = 240
+
+Gurobi 8.1.0: optimal solution; objective 31.18350861
+555 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.212125
+236095 simplex iterations
+3911 branch-and-cut nodes
+I_Set_Weight = 1.21213
+
+nSETS = 441
+
+sub_counter = 241
+
+Gurobi 8.1.0: optimal solution; objective 31.18166253
+516 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.250037
+139113 simplex iterations
+2482 branch-and-cut nodes
+I_Set_Weight = 1.25004
+
+nSETS = 442
+
+sub_counter = 242
+
+Gurobi 8.1.0: optimal solution; objective 31.17659855
+497 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.267033
+139020 simplex iterations
+2417 branch-and-cut nodes
+I_Set_Weight = 1.26703
+
+nSETS = 443
+
+sub_counter = 243
+
+Gurobi 8.1.0: optimal solution; objective 31.17384692
+511 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.209287
+241580 simplex iterations
+4131 branch-and-cut nodes
+I_Set_Weight = 1.20929
+
+nSETS = 444
+
+sub_counter = 244
+
+Gurobi 8.1.0: optimal solution; objective 31.16962701
+515 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.281043
+130982 simplex iterations
+2233 branch-and-cut nodes
+I_Set_Weight = 1.28104
+
+nSETS = 445
+
+sub_counter = 245
+
+Gurobi 8.1.0: optimal solution; objective 31.16602463
+564 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.213483
+238632 simplex iterations
+4129 branch-and-cut nodes
+I_Set_Weight = 1.21348
+
+nSETS = 446
+
+sub_counter = 246
+
+Gurobi 8.1.0: optimal solution; objective 31.16168311
+538 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.193041
+240130 simplex iterations
+4300 branch-and-cut nodes
+I_Set_Weight = 1.19304
+
+nSETS = 447
+
+sub_counter = 247
+
+Gurobi 8.1.0: optimal solution; objective 31.15709507
+566 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.246997
+215318 simplex iterations
+3614 branch-and-cut nodes
+I_Set_Weight = 1.247
+
+nSETS = 448
+
+sub_counter = 248
+
+Gurobi 8.1.0: optimal solution; objective 31.1492905
+578 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.202911
+232060 simplex iterations
+4019 branch-and-cut nodes
+I_Set_Weight = 1.20291
+
+nSETS = 449
+
+sub_counter = 249
+
+Gurobi 8.1.0: optimal solution; objective 31.14562749
+559 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.230943
+225037 simplex iterations
+3792 branch-and-cut nodes
+I_Set_Weight = 1.23094
+
+nSETS = 450
+
+sub_counter = 250
+
+Gurobi 8.1.0: optimal solution; objective 31.14312346
+524 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.207011
+227920 simplex iterations
+4054 branch-and-cut nodes
+I_Set_Weight = 1.20701
+
+nSETS = 451
+
+sub_counter = 251
+
+Gurobi 8.1.0: optimal solution; objective 31.14191197
+503 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.224805
+228065 simplex iterations
+3837 branch-and-cut nodes
+I_Set_Weight = 1.2248
+
+nSETS = 452
+
+sub_counter = 252
+
+Gurobi 8.1.0: optimal solution; objective 31.13556059
+539 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.234075
+143895 simplex iterations
+2472 branch-and-cut nodes
+I_Set_Weight = 1.23408
+
+nSETS = 453
+
+sub_counter = 253
+
+Gurobi 8.1.0: optimal solution; objective 31.13233992
+560 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.275344
+130885 simplex iterations
+2249 branch-and-cut nodes
+I_Set_Weight = 1.27534
+
+nSETS = 454
+
+sub_counter = 254
+
+Gurobi 8.1.0: optimal solution; objective 31.1294132
+538 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.237878
+143090 simplex iterations
+2530 branch-and-cut nodes
+I_Set_Weight = 1.23788
+
+nSETS = 455
+
+sub_counter = 255
+
+Gurobi 8.1.0: optimal solution; objective 31.1220595
+552 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.243201
+139577 simplex iterations
+2502 branch-and-cut nodes
+I_Set_Weight = 1.2432
+
+nSETS = 456
+
+sub_counter = 256
+
+Gurobi 8.1.0: optimal solution; objective 31.11577035
+533 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.187355
+234590 simplex iterations
+4022 branch-and-cut nodes
+I_Set_Weight = 1.18735
+
+nSETS = 457
+
+sub_counter = 257
+
+Gurobi 8.1.0: optimal solution; objective 31.11267953
+557 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.18219
+239451 simplex iterations
+4348 branch-and-cut nodes
+I_Set_Weight = 1.18219
+
+nSETS = 458
+
+sub_counter = 258
+
+Gurobi 8.1.0: optimal solution; objective 31.10803386
+562 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.211142
+157077 simplex iterations
+3051 branch-and-cut nodes
+I_Set_Weight = 1.21114
+
+nSETS = 459
+
+sub_counter = 259
+
+Gurobi 8.1.0: optimal solution; objective 31.10568026
+551 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.192974
+239077 simplex iterations
+4104 branch-and-cut nodes
+I_Set_Weight = 1.19297
+
+nSETS = 460
+
+sub_counter = 260
+
+Gurobi 8.1.0: optimal solution; objective 31.10120421
+533 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.242424
+225990 simplex iterations
+3655 branch-and-cut nodes
+I_Set_Weight = 1.24242
+
+nSETS = 461
+
+sub_counter = 261
+
+Gurobi 8.1.0: optimal solution; objective 31.09674256
+585 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.196117
+239945 simplex iterations
+4008 branch-and-cut nodes
+I_Set_Weight = 1.19612
+
+nSETS = 462
+
+sub_counter = 262
+
+Gurobi 8.1.0: optimal solution; objective 31.09282216
+541 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.230414
+224902 simplex iterations
+3562 branch-and-cut nodes
+I_Set_Weight = 1.23041
+
+nSETS = 463
+
+sub_counter = 263
+
+Gurobi 8.1.0: optimal solution; objective 31.08999017
+553 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.211167
+233944 simplex iterations
+3975 branch-and-cut nodes
+I_Set_Weight = 1.21117
+
+nSETS = 464
+
+sub_counter = 264
+
+Gurobi 8.1.0: optimal solution; objective 31.08339251
+570 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.20015
+239051 simplex iterations
+4161 branch-and-cut nodes
+I_Set_Weight = 1.20015
+
+nSETS = 465
+
+sub_counter = 265
+
+Gurobi 8.1.0: optimal solution; objective 31.07593872
+546 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.208463
+150379 simplex iterations
+2924 branch-and-cut nodes
+I_Set_Weight = 1.20846
+
+nSETS = 466
+
+sub_counter = 266
+
+Gurobi 8.1.0: optimal solution; objective 31.07089173
+549 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.189715
+236109 simplex iterations
+4189 branch-and-cut nodes
+I_Set_Weight = 1.18972
+
+nSETS = 467
+
+sub_counter = 267
+
+Gurobi 8.1.0: optimal solution; objective 31.06580832
+566 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.226673
+145720 simplex iterations
+2705 branch-and-cut nodes
+I_Set_Weight = 1.22667
+
+nSETS = 468
+
+sub_counter = 268
+
+Gurobi 8.1.0: optimal solution; objective 31.05900003
+549 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.23291
+142429 simplex iterations
+2487 branch-and-cut nodes
+I_Set_Weight = 1.23291
+
+nSETS = 469
+
+sub_counter = 269
+
+Gurobi 8.1.0: optimal solution; objective 31.05630422
+562 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.237589
+142326 simplex iterations
+2514 branch-and-cut nodes
+I_Set_Weight = 1.23759
+
+nSETS = 470
+
+sub_counter = 270
+
+Gurobi 8.1.0: optimal solution; objective 31.05508338
+559 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.219857
+230716 simplex iterations
+3861 branch-and-cut nodes
+I_Set_Weight = 1.21986
+
+nSETS = 471
+
+sub_counter = 271
+
+Gurobi 8.1.0: optimal solution; objective 31.04876071
+580 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.28574
+119953 simplex iterations
+1919 branch-and-cut nodes
+I_Set_Weight = 1.28574
+
+nSETS = 472
+
+sub_counter = 272
+
+Gurobi 8.1.0: optimal solution; objective 31.04297383
+551 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.20878
+224797 simplex iterations
+3686 branch-and-cut nodes
+I_Set_Weight = 1.20878
+
+nSETS = 473
+
+sub_counter = 273
+
+Gurobi 8.1.0: optimal solution; objective 31.02844942
+567 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.191216
+229298 simplex iterations
+3985 branch-and-cut nodes
+I_Set_Weight = 1.19122
+
+nSETS = 474
+
+sub_counter = 274
+
+Gurobi 8.1.0: optimal solution; objective 31.0149471
+563 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.2483
+131883 simplex iterations
+2253 branch-and-cut nodes
+I_Set_Weight = 1.2483
+
+nSETS = 475
+
+sub_counter = 275
+
+Gurobi 8.1.0: optimal solution; objective 31.01112272
+524 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.287914
+122406 simplex iterations
+1978 branch-and-cut nodes
+I_Set_Weight = 1.28791
+
+nSETS = 476
+
+sub_counter = 276
+
+Gurobi 8.1.0: optimal solution; objective 31.00605991
+511 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.192115
+234698 simplex iterations
+4223 branch-and-cut nodes
+I_Set_Weight = 1.19211
+
+nSETS = 477
+
+sub_counter = 277
+
+Gurobi 8.1.0: optimal solution; objective 31.00372751
+549 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.19899
+235754 simplex iterations
+4053 branch-and-cut nodes
+I_Set_Weight = 1.19899
+
+nSETS = 478
+
+sub_counter = 278
+
+Gurobi 8.1.0: optimal solution; objective 30.99903693
+558 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.1851
+237723 simplex iterations
+4091 branch-and-cut nodes
+I_Set_Weight = 1.1851
+
+nSETS = 479
+
+sub_counter = 279
+
+Gurobi 8.1.0: optimal solution; objective 30.9966314
+550 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.200309
+231026 simplex iterations
+4063 branch-and-cut nodes
+I_Set_Weight = 1.20031
+
+nSETS = 480
+
+sub_counter = 280
+
+Gurobi 8.1.0: optimal solution; objective 30.9938259
+520 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.199165
+230764 simplex iterations
+3975 branch-and-cut nodes
+I_Set_Weight = 1.19916
+
+nSETS = 481
+
+sub_counter = 281
+
+Gurobi 8.1.0: optimal solution; objective 30.99016018
+550 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.180463
+240720 simplex iterations
+4367 branch-and-cut nodes
+I_Set_Weight = 1.18046
+
+nSETS = 482
+
+sub_counter = 282
+
+Gurobi 8.1.0: optimal solution; objective 30.98744273
+567 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.16965
+253717 simplex iterations
+4547 branch-and-cut nodes
+I_Set_Weight = 1.16965
+
+nSETS = 483
+
+sub_counter = 283
+
+Gurobi 8.1.0: optimal solution; objective 30.98531881
+575 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.17721
+244425 simplex iterations
+4444 branch-and-cut nodes
+I_Set_Weight = 1.17721
+
+nSETS = 484
+
+sub_counter = 284
+
+Gurobi 8.1.0: optimal solution; objective 30.98034209
+585 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.170689
+243048 simplex iterations
+4291 branch-and-cut nodes
+I_Set_Weight = 1.17069
+
+nSETS = 485
+
+sub_counter = 285
+
+Gurobi 8.1.0: optimal solution; objective 30.97959137
+592 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.175463
+239165 simplex iterations
+4519 branch-and-cut nodes
+I_Set_Weight = 1.17546
+
+nSETS = 486
+
+sub_counter = 286
+
+Gurobi 8.1.0: optimal solution; objective 30.97398514
+624 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.17327
+236759 simplex iterations
+4237 branch-and-cut nodes
+I_Set_Weight = 1.17327
+
+nSETS = 487
+
+sub_counter = 287
+
+Gurobi 8.1.0: optimal solution; objective 30.96942523
+543 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.15386
+251197 simplex iterations
+4620 branch-and-cut nodes
+I_Set_Weight = 1.15386
+
+nSETS = 488
+
+sub_counter = 288
+
+Gurobi 8.1.0: optimal solution; objective 30.96229068
+571 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.178086
+240307 simplex iterations
+4428 branch-and-cut nodes
+I_Set_Weight = 1.17809
+
+nSETS = 489
+
+sub_counter = 289
+
+Gurobi 8.1.0: optimal solution; objective 30.95835845
+599 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.153848
+250155 simplex iterations
+4627 branch-and-cut nodes
+I_Set_Weight = 1.15385
+
+nSETS = 490
+
+sub_counter = 290
+
+Gurobi 8.1.0: optimal solution; objective 30.95408969
+544 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.159335
+245574 simplex iterations
+4551 branch-and-cut nodes
+I_Set_Weight = 1.15934
+
+nSETS = 491
+
+sub_counter = 291
+
+Gurobi 8.1.0: optimal solution; objective 30.94696948
+594 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.197026
+231412 simplex iterations
+3957 branch-and-cut nodes
+I_Set_Weight = 1.19703
+
+nSETS = 492
+
+sub_counter = 292
+
+Gurobi 8.1.0: optimal solution; objective 30.94291698
+592 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.247433
+210954 simplex iterations
+3435 branch-and-cut nodes
+I_Set_Weight = 1.24743
+
+nSETS = 493
+
+sub_counter = 293
+
+Gurobi 8.1.0: optimal solution; objective 30.93601095
+577 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.178175
+241246 simplex iterations
+4616 branch-and-cut nodes
+I_Set_Weight = 1.17817
+
+nSETS = 494
+
+sub_counter = 294
+
+Gurobi 8.1.0: optimal solution; objective 30.92779871
+579 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.152283
+257283 simplex iterations
+4942 branch-and-cut nodes
+I_Set_Weight = 1.15228
+
+nSETS = 495
+
+sub_counter = 295
+
+Gurobi 8.1.0: optimal solution; objective 30.92592018
+584 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.175131
+247543 simplex iterations
+4458 branch-and-cut nodes
+I_Set_Weight = 1.17513
+
+nSETS = 496
+
+sub_counter = 296
+
+Gurobi 8.1.0: optimal solution; objective 30.92338352
+575 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.172434
+246384 simplex iterations
+4539 branch-and-cut nodes
+I_Set_Weight = 1.17243
+
+nSETS = 497
+
+sub_counter = 297
+
+Gurobi 8.1.0: optimal solution; objective 30.92096623
+585 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.180747
+245289 simplex iterations
+4354 branch-and-cut nodes
+I_Set_Weight = 1.18075
+
+nSETS = 498
+
+sub_counter = 298
+
+Gurobi 8.1.0: optimal solution; objective 30.91811758
+570 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.143628
+265015 simplex iterations
+5067 branch-and-cut nodes
+I_Set_Weight = 1.14363
+
+nSETS = 499
+
+sub_counter = 299
+
+Gurobi 8.1.0: optimal solution; objective 30.91544263
+556 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.138442
+267826 simplex iterations
+5482 branch-and-cut nodes
+I_Set_Weight = 1.13844
+
+nSETS = 500
+
+sub_counter = 300
+
+Gurobi 8.1.0: optimal solution; objective 30.91358918
+593 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.139198
+265706 simplex iterations
+5375 branch-and-cut nodes
+I_Set_Weight = 1.1392
+
+nSETS = 501
+
+sub_counter = 301
+
+Gurobi 8.1.0: optimal solution; objective 30.90343126
+613 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.223416
+221972 simplex iterations
+3876 branch-and-cut nodes
+I_Set_Weight = 1.22342
+
+nSETS = 502
+
+sub_counter = 302
+
+Gurobi 8.1.0: optimal solution; objective 30.89749184
+578 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.188358
+235335 simplex iterations
+4264 branch-and-cut nodes
+I_Set_Weight = 1.18836
+
+nSETS = 503
+
+sub_counter = 303
+
+Gurobi 8.1.0: optimal solution; objective 30.89370186
+602 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.152067
+251169 simplex iterations
+4862 branch-and-cut nodes
+I_Set_Weight = 1.15207
+
+nSETS = 504
+
+sub_counter = 304
+
+Gurobi 8.1.0: optimal solution; objective 30.88914836
+553 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.185794
+239123 simplex iterations
+4296 branch-and-cut nodes
+I_Set_Weight = 1.18579
+
+nSETS = 505
+
+sub_counter = 305
+
+Gurobi 8.1.0: optimal solution; objective 30.8848554
+553 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.157605
+248158 simplex iterations
+4651 branch-and-cut nodes
+I_Set_Weight = 1.1576
+
+nSETS = 506
+
+sub_counter = 306
+
+Gurobi 8.1.0: optimal solution; objective 30.87953755
+633 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.134881
+267665 simplex iterations
+4996 branch-and-cut nodes
+I_Set_Weight = 1.13488
+
+nSETS = 507
+
+sub_counter = 307
+
+Gurobi 8.1.0: optimal solution; objective 30.8778711
+585 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.148132
+260553 simplex iterations
+4850 branch-and-cut nodes
+I_Set_Weight = 1.14813
+
+nSETS = 508
+
+sub_counter = 308
+
+Gurobi 8.1.0: optimal solution; objective 30.87579264
+584 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.134556
+260241 simplex iterations
+5204 branch-and-cut nodes
+I_Set_Weight = 1.13456
+
+nSETS = 509
+
+sub_counter = 309
+
+Gurobi 8.1.0: optimal solution; objective 30.87374267
+562 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.152776
+251846 simplex iterations
+4763 branch-and-cut nodes
+I_Set_Weight = 1.15278
+
+nSETS = 510
+
+sub_counter = 310
+
+Gurobi 8.1.0: optimal solution; objective 30.87106262
+602 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.174219
+247415 simplex iterations
+4598 branch-and-cut nodes
+I_Set_Weight = 1.17422
+
+nSETS = 511
+
+sub_counter = 311
+
+Gurobi 8.1.0: optimal solution; objective 30.86840204
+647 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.177008
+239120 simplex iterations
+4206 branch-and-cut nodes
+I_Set_Weight = 1.17701
+
+nSETS = 512
+
+sub_counter = 312
+
+Gurobi 8.1.0: optimal solution; objective 30.86674359
+634 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.15227
+250909 simplex iterations
+4789 branch-and-cut nodes
+I_Set_Weight = 1.15227
+
+nSETS = 513
+
+sub_counter = 313
+
+Gurobi 8.1.0: optimal solution; objective 30.85999576
+684 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.184965
+234354 simplex iterations
+4279 branch-and-cut nodes
+I_Set_Weight = 1.18497
+
+nSETS = 514
+
+sub_counter = 314
+
+Gurobi 8.1.0: optimal solution; objective 30.85681588
+628 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.128901
+259223 simplex iterations
+5156 branch-and-cut nodes
+I_Set_Weight = 1.1289
+
+nSETS = 515
+
+sub_counter = 315
+
+Gurobi 8.1.0: optimal solution; objective 30.85594757
+633 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.133238
+257803 simplex iterations
+5053 branch-and-cut nodes
+I_Set_Weight = 1.13324
+
+nSETS = 516
+
+sub_counter = 316
+
+Gurobi 8.1.0: optimal solution; objective 30.85334445
+632 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.168519
+243316 simplex iterations
+4484 branch-and-cut nodes
+I_Set_Weight = 1.16852
+
+nSETS = 517
+
+sub_counter = 317
+
+Gurobi 8.1.0: optimal solution; objective 30.85055584
+667 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.141623
+259117 simplex iterations
+5011 branch-and-cut nodes
+I_Set_Weight = 1.14162
+
+nSETS = 518
+
+sub_counter = 318
+
+Gurobi 8.1.0: optimal solution; objective 30.84955307
+667 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.120099
+268357 simplex iterations
+5304 branch-and-cut nodes
+I_Set_Weight = 1.1201
+
+nSETS = 519
+
+sub_counter = 319
+
+Gurobi 8.1.0: optimal solution; objective 30.84595526
+674 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.130752
+262238 simplex iterations
+4997 branch-and-cut nodes
+I_Set_Weight = 1.13075
+
+nSETS = 520
+
+sub_counter = 320
+
+Gurobi 8.1.0: optimal solution; objective 30.84241105
+618 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.161248
+248794 simplex iterations
+4571 branch-and-cut nodes
+I_Set_Weight = 1.16125
+
+nSETS = 521
+
+sub_counter = 321
+
+Gurobi 8.1.0: optimal solution; objective 30.83933009
+638 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.16779
+243425 simplex iterations
+4766 branch-and-cut nodes
+I_Set_Weight = 1.16779
+
+nSETS = 522
+
+sub_counter = 322
+
+Gurobi 8.1.0: optimal solution; objective 30.83625252
+620 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.125174
+272117 simplex iterations
+5534 branch-and-cut nodes
+I_Set_Weight = 1.12517
+
+nSETS = 523
+
+sub_counter = 323
+
+Gurobi 8.1.0: optimal solution; objective 30.83184944
+619 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.119532
+267964 simplex iterations
+5567 branch-and-cut nodes
+I_Set_Weight = 1.11953
+
+nSETS = 524
+
+sub_counter = 324
+
+Gurobi 8.1.0: optimal solution; objective 30.82990964
+648 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.131385
+273142 simplex iterations
+5634 branch-and-cut nodes
+I_Set_Weight = 1.13138
+
+nSETS = 525
+
+sub_counter = 325
+
+Gurobi 8.1.0: optimal solution; objective 30.82737821
+586 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.145024
+254154 simplex iterations
+4988 branch-and-cut nodes
+I_Set_Weight = 1.14502
+
+nSETS = 526
+
+sub_counter = 326
+
+Gurobi 8.1.0: optimal solution; objective 30.82626136
+617 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.115885
+275883 simplex iterations
+5543 branch-and-cut nodes
+I_Set_Weight = 1.11589
+
+nSETS = 527
+
+sub_counter = 327
+
+Gurobi 8.1.0: optimal solution; objective 30.82535075
+617 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.127675
+269596 simplex iterations
+5336 branch-and-cut nodes
+I_Set_Weight = 1.12767
+
+nSETS = 528
+
+sub_counter = 328
+
+Gurobi 8.1.0: optimal solution; objective 30.81737975
+633 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.128738
+280562 simplex iterations
+5508 branch-and-cut nodes
+I_Set_Weight = 1.12874
+
+nSETS = 529
+
+sub_counter = 329
+
+Gurobi 8.1.0: optimal solution; objective 30.81153986
+602 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.121061
+262444 simplex iterations
+5351 branch-and-cut nodes
+I_Set_Weight = 1.12106
+
+nSETS = 530
+
+sub_counter = 330
+
+Gurobi 8.1.0: optimal solution; objective 30.80948589
+626 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.137054
+260445 simplex iterations
+4975 branch-and-cut nodes
+I_Set_Weight = 1.13705
+
+nSETS = 531
+
+sub_counter = 331
+
+Gurobi 8.1.0: optimal solution; objective 30.80156573
+650 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.120762
+271028 simplex iterations
+5412 branch-and-cut nodes
+I_Set_Weight = 1.12076
+
+nSETS = 532
+
+sub_counter = 332
+
+Gurobi 8.1.0: optimal solution; objective 30.80096187
+613 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.139571
+263888 simplex iterations
+5193 branch-and-cut nodes
+I_Set_Weight = 1.13957
+
+nSETS = 533
+
+sub_counter = 333
+
+Gurobi 8.1.0: optimal solution; objective 30.79746858
+623 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.124304
+276361 simplex iterations
+5523 branch-and-cut nodes
+I_Set_Weight = 1.1243
+
+nSETS = 534
+
+sub_counter = 334
+
+Gurobi 8.1.0: optimal solution; objective 30.78731004
+603 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.117233
+266456 simplex iterations
+5492 branch-and-cut nodes
+I_Set_Weight = 1.11723
+
+nSETS = 535
+
+sub_counter = 335
+
+Gurobi 8.1.0: optimal solution; objective 30.78046015
+587 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.111313
+273614 simplex iterations
+5536 branch-and-cut nodes
+I_Set_Weight = 1.11131
+
+nSETS = 536
+
+sub_counter = 336
+
+Gurobi 8.1.0: optimal solution; objective 30.77683172
+636 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.105567
+275944 simplex iterations
+5852 branch-and-cut nodes
+I_Set_Weight = 1.10557
+
+nSETS = 537
+
+sub_counter = 337
+
+Gurobi 8.1.0: optimal solution; objective 30.77530992
+581 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.136655
+262415 simplex iterations
+5173 branch-and-cut nodes
+I_Set_Weight = 1.13665
+
+nSETS = 538
+
+sub_counter = 338
+
+Gurobi 8.1.0: optimal solution; objective 30.77314083
+621 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.098439
+277463 simplex iterations
+6027 branch-and-cut nodes
+I_Set_Weight = 1.09844
+
+nSETS = 539
+
+sub_counter = 339
+
+Gurobi 8.1.0: optimal solution; objective 30.76947453
+599 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.125574
+265799 simplex iterations
+5398 branch-and-cut nodes
+I_Set_Weight = 1.12557
+
+nSETS = 540
+
+sub_counter = 340
+
+Gurobi 8.1.0: optimal solution; objective 30.76617974
+645 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.105886
+281607 simplex iterations
+6199 branch-and-cut nodes
+I_Set_Weight = 1.10589
+
+nSETS = 541
+
+sub_counter = 341
+
+Gurobi 8.1.0: optimal solution; objective 30.76427223
+621 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.090147
+292877 simplex iterations
+6501 branch-and-cut nodes
+I_Set_Weight = 1.09015
+
+nSETS = 542
+
+sub_counter = 342
+
+Gurobi 8.1.0: optimal solution; objective 30.75976412
+617 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.116589
+275958 simplex iterations
+5929 branch-and-cut nodes
+I_Set_Weight = 1.11659
+
+nSETS = 543
+
+sub_counter = 343
+
+Gurobi 8.1.0: optimal solution; objective 30.75721887
+636 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.100585
+300108 simplex iterations
+6640 branch-and-cut nodes
+I_Set_Weight = 1.10058
+
+nSETS = 544
+
+sub_counter = 344
+
+Gurobi 8.1.0: optimal solution; objective 30.75297359
+614 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.101433
+281478 simplex iterations
+6138 branch-and-cut nodes
+I_Set_Weight = 1.10143
+
+nSETS = 545
+
+sub_counter = 345
+
+Gurobi 8.1.0: optimal solution; objective 30.74938216
+673 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.102959
+284464 simplex iterations
+6240 branch-and-cut nodes
+I_Set_Weight = 1.10296
+
+nSETS = 546
+
+sub_counter = 346
+
+Gurobi 8.1.0: optimal solution; objective 30.74924614
+611 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.078895
+297131 simplex iterations
+6726 branch-and-cut nodes
+I_Set_Weight = 1.07889
+
+nSETS = 547
+
+sub_counter = 347
+
+Gurobi 8.1.0: optimal solution; objective 30.74391514
+615 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.082505
+293258 simplex iterations
+6495 branch-and-cut nodes
+I_Set_Weight = 1.08251
+
+nSETS = 548
+
+sub_counter = 348
+
+Gurobi 8.1.0: optimal solution; objective 30.74134228
+601 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.07902
+305202 simplex iterations
+6845 branch-and-cut nodes
+I_Set_Weight = 1.07902
+
+nSETS = 549
+
+sub_counter = 349
+
+Gurobi 8.1.0: optimal solution; objective 30.73795059
+647 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.083136
+295351 simplex iterations
+6702 branch-and-cut nodes
+I_Set_Weight = 1.08314
+
+nSETS = 550
+
+sub_counter = 350
+
+Gurobi 8.1.0: optimal solution; objective 30.73461855
+643 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.088984
+282813 simplex iterations
+5769 branch-and-cut nodes
+I_Set_Weight = 1.08898
+
+nSETS = 551
+
+sub_counter = 351
+
+Gurobi 8.1.0: optimal solution; objective 30.7309508
+663 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.095314
+282092 simplex iterations
+5972 branch-and-cut nodes
+I_Set_Weight = 1.09531
+
+nSETS = 552
+
+sub_counter = 352
+
+Gurobi 8.1.0: optimal solution; objective 30.72882222
+634 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.081089
+293314 simplex iterations
+6470 branch-and-cut nodes
+I_Set_Weight = 1.08109
+
+nSETS = 553
+
+sub_counter = 353
+
+Gurobi 8.1.0: optimal solution; objective 30.72629008
+633 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.074939
+301356 simplex iterations
+6853 branch-and-cut nodes
+I_Set_Weight = 1.07494
+
+nSETS = 554
+
+sub_counter = 354
+
+Gurobi 8.1.0: optimal solution; objective 30.72336722
+601 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.061884
+307524 simplex iterations
+7158 branch-and-cut nodes
+I_Set_Weight = 1.06188
+
+nSETS = 555
+
+sub_counter = 355
+
+Gurobi 8.1.0: optimal solution; objective 30.72051061
+612 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.070843
+299328 simplex iterations
+6887 branch-and-cut nodes
+I_Set_Weight = 1.07084
+
+nSETS = 556
+
+sub_counter = 356
+
+Gurobi 8.1.0: optimal solution; objective 30.71863402
+632 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.069736
+299874 simplex iterations
+7063 branch-and-cut nodes
+I_Set_Weight = 1.06974
+
+nSETS = 557
+
+sub_counter = 357
+
+Gurobi 8.1.0: optimal solution; objective 30.71765656
+636 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.08175
+289650 simplex iterations
+6597 branch-and-cut nodes
+I_Set_Weight = 1.08175
+
+nSETS = 558
+
+sub_counter = 358
+
+Gurobi 8.1.0: optimal solution; objective 30.71647847
+601 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.077373
+295699 simplex iterations
+6654 branch-and-cut nodes
+I_Set_Weight = 1.07737
+
+nSETS = 559
+
+sub_counter = 359
+
+Gurobi 8.1.0: optimal solution; objective 30.71590365
+641 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.081285
+299060 simplex iterations
+6722 branch-and-cut nodes
+I_Set_Weight = 1.08129
+
+nSETS = 560
+
+sub_counter = 360
+
+Gurobi 8.1.0: optimal solution; objective 30.71192952
+629 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.075259
+299258 simplex iterations
+6902 branch-and-cut nodes
+I_Set_Weight = 1.07526
+
+nSETS = 561
+
+sub_counter = 361
+
+Gurobi 8.1.0: optimal solution; objective 30.70914646
+653 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.067081
+298219 simplex iterations
+6993 branch-and-cut nodes
+I_Set_Weight = 1.06708
+
+nSETS = 562
+
+sub_counter = 362
+
+Gurobi 8.1.0: optimal solution; objective 30.70451057
+611 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.069803
+302188 simplex iterations
+6915 branch-and-cut nodes
+I_Set_Weight = 1.0698
+
+nSETS = 563
+
+sub_counter = 363
+
+Gurobi 8.1.0: optimal solution; objective 30.70378199
+671 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.080396
+294933 simplex iterations
+6602 branch-and-cut nodes
+I_Set_Weight = 1.0804
+
+nSETS = 564
+
+sub_counter = 364
+
+Gurobi 8.1.0: optimal solution; objective 30.70110804
+646 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.063613
+305280 simplex iterations
+7061 branch-and-cut nodes
+I_Set_Weight = 1.06361
+
+nSETS = 565
+
+sub_counter = 365
+
+Gurobi 8.1.0: optimal solution; objective 30.69812243
+650 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.055721
+310919 simplex iterations
+7405 branch-and-cut nodes
+I_Set_Weight = 1.05572
+
+nSETS = 566
+
+sub_counter = 366
+
+Gurobi 8.1.0: optimal solution; objective 30.69431878
+672 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.070394
+310629 simplex iterations
+7256 branch-and-cut nodes
+I_Set_Weight = 1.07039
+
+nSETS = 567
+
+sub_counter = 367
+
+Gurobi 8.1.0: optimal solution; objective 30.69282175
+695 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.065555
+312164 simplex iterations
+7505 branch-and-cut nodes
+I_Set_Weight = 1.06556
+
+nSETS = 568
+
+sub_counter = 368
+
+Gurobi 8.1.0: optimal solution; objective 30.68981673
+684 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.05757
+320644 simplex iterations
+7878 branch-and-cut nodes
+I_Set_Weight = 1.05757
+
+nSETS = 569
+
+sub_counter = 369
+
+Gurobi 8.1.0: optimal solution; objective 30.68856278
+674 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.074985
+301686 simplex iterations
+6864 branch-and-cut nodes
+I_Set_Weight = 1.07498
+
+nSETS = 570
+
+sub_counter = 370
+
+Gurobi 8.1.0: optimal solution; objective 30.68224396
+663 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.100625
+288445 simplex iterations
+5829 branch-and-cut nodes
+I_Set_Weight = 1.10062
+
+nSETS = 571
+
+sub_counter = 371
+
+Gurobi 8.1.0: optimal solution; objective 30.67622967
+633 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.078167
+293506 simplex iterations
+6162 branch-and-cut nodes
+I_Set_Weight = 1.07817
+
+nSETS = 572
+
+sub_counter = 372
+
+Gurobi 8.1.0: optimal solution; objective 30.67456488
+676 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.076945
+294065 simplex iterations
+6613 branch-and-cut nodes
+I_Set_Weight = 1.07695
+
+nSETS = 573
+
+sub_counter = 373
+
+Gurobi 8.1.0: optimal solution; objective 30.67184121
+674 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.074139
+287702 simplex iterations
+6480 branch-and-cut nodes
+I_Set_Weight = 1.07414
+
+nSETS = 574
+
+sub_counter = 374
+
+Gurobi 8.1.0: optimal solution; objective 30.6699692
+696 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.066968
+297059 simplex iterations
+6760 branch-and-cut nodes
+I_Set_Weight = 1.06697
+
+nSETS = 575
+
+sub_counter = 375
+
+Gurobi 8.1.0: optimal solution; objective 30.66702695
+660 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.04803
+310835 simplex iterations
+7334 branch-and-cut nodes
+I_Set_Weight = 1.04803
+
+nSETS = 576
+
+sub_counter = 376
+
+Gurobi 8.1.0: optimal solution; objective 30.66637725
+704 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.084592
+292246 simplex iterations
+6437 branch-and-cut nodes
+I_Set_Weight = 1.08459
+
+nSETS = 577
+
+sub_counter = 377
+
+Gurobi 8.1.0: optimal solution; objective 30.66552638
+626 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.06997
+296476 simplex iterations
+6910 branch-and-cut nodes
+I_Set_Weight = 1.06997
+
+nSETS = 578
+
+sub_counter = 378
+
+Gurobi 8.1.0: optimal solution; objective 30.66386969
+659 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.097312
+291327 simplex iterations
+6501 branch-and-cut nodes
+I_Set_Weight = 1.09731
+
+nSETS = 579
+
+sub_counter = 379
+
+Gurobi 8.1.0: optimal solution; objective 30.66300253
+663 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.072575
+294958 simplex iterations
+6658 branch-and-cut nodes
+I_Set_Weight = 1.07258
+
+nSETS = 580
+
+sub_counter = 380
+
+Gurobi 8.1.0: optimal solution; objective 30.6621436
+620 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.055666
+298990 simplex iterations
+7131 branch-and-cut nodes
+I_Set_Weight = 1.05567
+
+nSETS = 581
+
+sub_counter = 381
+
+Gurobi 8.1.0: optimal solution; objective 30.66136108
+641 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.043918
+325659 simplex iterations
+8145 branch-and-cut nodes
+I_Set_Weight = 1.04392
+
+nSETS = 582
+
+sub_counter = 382
+
+Gurobi 8.1.0: optimal solution; objective 30.66080727
+683 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.043042
+313893 simplex iterations
+7943 branch-and-cut nodes
+I_Set_Weight = 1.04304
+
+nSETS = 583
+
+sub_counter = 383
+
+Gurobi 8.1.0: optimal solution; objective 30.66035214
+670 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.04409
+317816 simplex iterations
+8191 branch-and-cut nodes
+I_Set_Weight = 1.04409
+
+nSETS = 584
+
+sub_counter = 384
+
+Gurobi 8.1.0: optimal solution; objective 30.65968223
+688 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.074761
+290006 simplex iterations
+6498 branch-and-cut nodes
+I_Set_Weight = 1.07476
+
+nSETS = 585
+
+sub_counter = 385
+
+Gurobi 8.1.0: optimal solution; objective 30.6586674
+673 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.065563
+299339 simplex iterations
+6918 branch-and-cut nodes
+I_Set_Weight = 1.06556
+
+nSETS = 586
+
+sub_counter = 386
+
+Gurobi 8.1.0: optimal solution; objective 30.65831042
+681 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.075027
+302229 simplex iterations
+6873 branch-and-cut nodes
+I_Set_Weight = 1.07503
+
+nSETS = 587
+
+sub_counter = 387
+
+Gurobi 8.1.0: optimal solution; objective 30.65801409
+636 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.038736
+315814 simplex iterations
+8128 branch-and-cut nodes
+I_Set_Weight = 1.03874
+
+nSETS = 588
+
+sub_counter = 388
+
+Gurobi 8.1.0: optimal solution; objective 30.65774359
+641 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.036319
+339416 simplex iterations
+8745 branch-and-cut nodes
+I_Set_Weight = 1.03632
+
+nSETS = 589
+
+sub_counter = 389
+
+Gurobi 8.1.0: optimal solution; objective 30.6566023
+626 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.050282
+314347 simplex iterations
+7511 branch-and-cut nodes
+I_Set_Weight = 1.05028
+
+nSETS = 590
+
+sub_counter = 390
+
+Gurobi 8.1.0: optimal solution; objective 30.65622447
+628 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.053697
+305669 simplex iterations
+7301 branch-and-cut nodes
+I_Set_Weight = 1.0537
+
+nSETS = 591
+
+sub_counter = 391
+
+Gurobi 8.1.0: optimal solution; objective 30.65588486
+681 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.037468
+313878 simplex iterations
+7998 branch-and-cut nodes
+I_Set_Weight = 1.03747
+
+nSETS = 592
+
+sub_counter = 392
+
+Gurobi 8.1.0: optimal solution; objective 30.65580091
+643 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.046894
+307695 simplex iterations
+7390 branch-and-cut nodes
+I_Set_Weight = 1.04689
+
+nSETS = 593
+
+sub_counter = 393
+
+Gurobi 8.1.0: optimal solution; objective 30.65563642
+681 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.03297
+322617 simplex iterations
+8222 branch-and-cut nodes
+I_Set_Weight = 1.03297
+
+nSETS = 594
+
+sub_counter = 394
+
+Gurobi 8.1.0: optimal solution; objective 30.65505493
+676 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.040709
+314907 simplex iterations
+7713 branch-and-cut nodes
+I_Set_Weight = 1.04071
+
+nSETS = 595
+
+sub_counter = 395
+
+Gurobi 8.1.0: optimal solution; objective 30.65421093
+681 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.043134
+311398 simplex iterations
+7759 branch-and-cut nodes
+I_Set_Weight = 1.04313
+
+nSETS = 596
+
+sub_counter = 396
+
+Gurobi 8.1.0: optimal solution; objective 30.65335187
+691 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.038177
+336124 simplex iterations
+8534 branch-and-cut nodes
+I_Set_Weight = 1.03818
+
+nSETS = 597
+
+sub_counter = 397
+
+Gurobi 8.1.0: optimal solution; objective 30.65281333
+682 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.033513
+321597 simplex iterations
+7901 branch-and-cut nodes
+I_Set_Weight = 1.03351
+
+nSETS = 598
+
+sub_counter = 398
+
+Gurobi 8.1.0: optimal solution; objective 30.65220483
+657 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.051959
+301704 simplex iterations
+7202 branch-and-cut nodes
+I_Set_Weight = 1.05196
+
+nSETS = 599
+
+sub_counter = 399
+
+Gurobi 8.1.0: optimal solution; objective 30.65181895
+672 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.037391
+320973 simplex iterations
+8050 branch-and-cut nodes
+I_Set_Weight = 1.03739
+
+nSETS = 600
+
+sub_counter = 400
+
+Gurobi 8.1.0: optimal solution; objective 30.65139886
+672 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.034115
+318963 simplex iterations
+8299 branch-and-cut nodes
+I_Set_Weight = 1.03412
+
+nSETS = 601
+
+sub_counter = 401
+
+Gurobi 8.1.0: optimal solution; objective 30.6511745
+664 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.037047
+323354 simplex iterations
+8284 branch-and-cut nodes
+I_Set_Weight = 1.03705
+
+nSETS = 602
+
+sub_counter = 402
+
+Gurobi 8.1.0: optimal solution; objective 30.65013935
+669 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.040675
+338319 simplex iterations
+8625 branch-and-cut nodes
+I_Set_Weight = 1.04068
+
+nSETS = 603
+
+sub_counter = 403
+
+Gurobi 8.1.0: optimal solution; objective 30.6495302
+673 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.033062
+322890 simplex iterations
+8326 branch-and-cut nodes
+I_Set_Weight = 1.03306
+
+nSETS = 604
+
+sub_counter = 404
+
+Gurobi 8.1.0: optimal solution; objective 30.64851521
+733 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.052657
+319473 simplex iterations
+8011 branch-and-cut nodes
+I_Set_Weight = 1.05266
+
+nSETS = 605
+
+sub_counter = 405
+
+Gurobi 8.1.0: optimal solution; objective 30.64723093
+667 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.037262
+317368 simplex iterations
+7883 branch-and-cut nodes
+I_Set_Weight = 1.03726
+
+nSETS = 606
+
+sub_counter = 406
+
+Gurobi 8.1.0: optimal solution; objective 30.64643071
+661 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.034124
+318026 simplex iterations
+7951 branch-and-cut nodes
+I_Set_Weight = 1.03412
+
+nSETS = 607
+
+sub_counter = 407
+
+Gurobi 8.1.0: optimal solution; objective 30.64563568
+644 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.03617
+317010 simplex iterations
+7962 branch-and-cut nodes
+I_Set_Weight = 1.03617
+
+nSETS = 608
+
+sub_counter = 408
+
+Gurobi 8.1.0: optimal solution; objective 30.64467501
+639 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.033593
+332120 simplex iterations
+8482 branch-and-cut nodes
+I_Set_Weight = 1.03359
+
+nSETS = 609
+
+sub_counter = 409
+
+Gurobi 8.1.0: optimal solution; objective 30.64435369
+674 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.025819
+329460 simplex iterations
+8471 branch-and-cut nodes
+I_Set_Weight = 1.02582
+
+nSETS = 610
+
+sub_counter = 410
+
+Gurobi 8.1.0: optimal solution; objective 30.64424152
+601 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.031709
+318461 simplex iterations
+8116 branch-and-cut nodes
+I_Set_Weight = 1.03171
+
+nSETS = 611
+
+sub_counter = 411
+
+Gurobi 8.1.0: optimal solution; objective 30.64304964
+637 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.027764
+329465 simplex iterations
+8523 branch-and-cut nodes
+I_Set_Weight = 1.02776
+
+nSETS = 612
+
+sub_counter = 412
+
+Gurobi 8.1.0: optimal solution; objective 30.64279777
+645 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.028166
+324532 simplex iterations
+8516 branch-and-cut nodes
+I_Set_Weight = 1.02817
+
+nSETS = 613
+
+sub_counter = 413
+
+Gurobi 8.1.0: optimal solution; objective 30.64224433
+648 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.027107
+325103 simplex iterations
+8287 branch-and-cut nodes
+I_Set_Weight = 1.02711
+
+nSETS = 614
+
+sub_counter = 414
+
+Gurobi 8.1.0: optimal solution; objective 30.641696
+686 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.021948
+326786 simplex iterations
+8488 branch-and-cut nodes
+I_Set_Weight = 1.02195
+
+nSETS = 615
+
+sub_counter = 415
+
+Gurobi 8.1.0: optimal solution; objective 30.64094307
+772 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.026117
+327871 simplex iterations
+8683 branch-and-cut nodes
+I_Set_Weight = 1.02612
+
+nSETS = 616
+
+sub_counter = 416
+
+Gurobi 8.1.0: optimal solution; objective 30.64017604
+783 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.02201
+332670 simplex iterations
+9025 branch-and-cut nodes
+I_Set_Weight = 1.02201
+
+nSETS = 617
+
+sub_counter = 417
+
+Gurobi 8.1.0: optimal solution; objective 30.63994411
+778 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.023851
+331929 simplex iterations
+8472 branch-and-cut nodes
+I_Set_Weight = 1.02385
+
+nSETS = 618
+
+sub_counter = 418
+
+Gurobi 8.1.0: optimal solution; objective 30.639557
+750 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.027396
+318555 simplex iterations
+8180 branch-and-cut nodes
+I_Set_Weight = 1.0274
+
+nSETS = 619
+
+sub_counter = 419
+
+Gurobi 8.1.0: optimal solution; objective 30.63876861
+697 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.019546
+339181 simplex iterations
+9289 branch-and-cut nodes
+I_Set_Weight = 1.01955
+
+nSETS = 620
+
+sub_counter = 420
+
+Gurobi 8.1.0: optimal solution; objective 30.63842631
+692 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.02944
+323684 simplex iterations
+8090 branch-and-cut nodes
+I_Set_Weight = 1.02944
+
+nSETS = 621
+
+sub_counter = 421
+
+Gurobi 8.1.0: optimal solution; objective 30.63837929
+690 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.017945
+334664 simplex iterations
+9044 branch-and-cut nodes
+I_Set_Weight = 1.01795
+
+nSETS = 622
+
+sub_counter = 422
+
+Gurobi 8.1.0: optimal solution; objective 30.63816313
+673 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.025084
+328528 simplex iterations
+8563 branch-and-cut nodes
+I_Set_Weight = 1.02508
+
+nSETS = 623
+
+sub_counter = 423
+
+Gurobi 8.1.0: optimal solution; objective 30.63734438
+733 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.02067
+325995 simplex iterations
+8388 branch-and-cut nodes
+I_Set_Weight = 1.02067
+
+nSETS = 624
+
+sub_counter = 424
+
+Gurobi 8.1.0: optimal solution; objective 30.63725198
+716 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.019823
+336730 simplex iterations
+8882 branch-and-cut nodes
+I_Set_Weight = 1.01982
+
+nSETS = 625
+
+sub_counter = 425
+
+Gurobi 8.1.0: optimal solution; objective 30.63673311
+750 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.019262
+334403 simplex iterations
+8995 branch-and-cut nodes
+I_Set_Weight = 1.01926
+
+nSETS = 626
+
+sub_counter = 426
+
+Gurobi 8.1.0: optimal solution; objective 30.63666802
+745 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.019063
+335286 simplex iterations
+8838 branch-and-cut nodes
+I_Set_Weight = 1.01906
+
+nSETS = 627
+
+sub_counter = 427
+
+Gurobi 8.1.0: optimal solution; objective 30.6361602
+693 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.028083
+328051 simplex iterations
+8594 branch-and-cut nodes
+I_Set_Weight = 1.02808
+
+nSETS = 628
+
+sub_counter = 428
+
+Gurobi 8.1.0: optimal solution; objective 30.63535602
+734 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.015482
+330032 simplex iterations
+8606 branch-and-cut nodes
+I_Set_Weight = 1.01548
+
+nSETS = 629
+
+sub_counter = 429
+
+Gurobi 8.1.0: optimal solution; objective 30.63498237
+727 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.017778
+322700 simplex iterations
+8299 branch-and-cut nodes
+I_Set_Weight = 1.01778
+
+nSETS = 630
+
+sub_counter = 430
+
+Gurobi 8.1.0: optimal solution; objective 30.63475554
+684 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.016731
+328376 simplex iterations
+8302 branch-and-cut nodes
+I_Set_Weight = 1.01673
+
+nSETS = 631
+
+sub_counter = 431
+
+Gurobi 8.1.0: optimal solution; objective 30.63430811
+716 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.016291
+338484 simplex iterations
+9106 branch-and-cut nodes
+I_Set_Weight = 1.01629
+
+nSETS = 632
+
+sub_counter = 432
+
+Gurobi 8.1.0: optimal solution; objective 30.63336855
+690 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.015155
+332181 simplex iterations
+8962 branch-and-cut nodes
+I_Set_Weight = 1.01516
+
+nSETS = 633
+
+sub_counter = 433
+
+Gurobi 8.1.0: optimal solution; objective 30.63284159
+732 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.017017
+331177 simplex iterations
+8746 branch-and-cut nodes
+I_Set_Weight = 1.01702
+
+nSETS = 634
+
+sub_counter = 434
+
+Gurobi 8.1.0: optimal solution; objective 30.63269612
+735 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.021754
+325362 simplex iterations
+8384 branch-and-cut nodes
+I_Set_Weight = 1.02175
+
+nSETS = 635
+
+sub_counter = 435
+
+Gurobi 8.1.0: optimal solution; objective 30.63257058
+736 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.011633
+329568 simplex iterations
+8761 branch-and-cut nodes
+I_Set_Weight = 1.01163
+
+nSETS = 636
+
+sub_counter = 436
+
+Gurobi 8.1.0: optimal solution; objective 30.63251126
+707 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.015728
+334652 simplex iterations
+8780 branch-and-cut nodes
+I_Set_Weight = 1.01573
+
+nSETS = 637
+
+sub_counter = 437
+
+Gurobi 8.1.0: optimal solution; objective 30.63234025
+701 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.01901
+330560 simplex iterations
+8854 branch-and-cut nodes
+I_Set_Weight = 1.01901
+
+nSETS = 638
+
+sub_counter = 438
+
+Gurobi 8.1.0: optimal solution; objective 30.63231009
+701 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.01097
+334329 simplex iterations
+9238 branch-and-cut nodes
+I_Set_Weight = 1.01097
+
+nSETS = 639
+
+sub_counter = 439
+
+Gurobi 8.1.0: optimal solution; objective 30.63223232
+673 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.015453
+330064 simplex iterations
+8896 branch-and-cut nodes
+I_Set_Weight = 1.01545
+
+nSETS = 640
+
+sub_counter = 440
+
+Gurobi 8.1.0: optimal solution; objective 30.63148495
+655 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.027464
+323404 simplex iterations
+8221 branch-and-cut nodes
+I_Set_Weight = 1.02746
+
+nSETS = 641
+
+sub_counter = 441
+
+Gurobi 8.1.0: optimal solution; objective 30.63113522
+696 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.021334
+337964 simplex iterations
+9005 branch-and-cut nodes
+I_Set_Weight = 1.02133
+
+nSETS = 642
+
+sub_counter = 442
+
+Gurobi 8.1.0: optimal solution; objective 30.63031786
+692 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.015118
+339625 simplex iterations
+9456 branch-and-cut nodes
+I_Set_Weight = 1.01512
+
+nSETS = 643
+
+sub_counter = 443
+
+Gurobi 8.1.0: optimal solution; objective 30.62894842
+725 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.021948
+333363 simplex iterations
+9286 branch-and-cut nodes
+I_Set_Weight = 1.02195
+
+nSETS = 644
+
+sub_counter = 444
+
+Gurobi 8.1.0: optimal solution; objective 30.62855382
+727 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.004588
+346118 simplex iterations
+9513 branch-and-cut nodes
+I_Set_Weight = 1.00459
+
+nSETS = 645
+
+sub_counter = 445
+
+Gurobi 8.1.0: optimal solution; objective 30.62849487
+712 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.006378
+339074 simplex iterations
+9499 branch-and-cut nodes
+I_Set_Weight = 1.00638
+
+nSETS = 646
+
+sub_counter = 446
+
+Gurobi 8.1.0: optimal solution; objective 30.62843523
+708 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.004676
+338433 simplex iterations
+9312 branch-and-cut nodes
+I_Set_Weight = 1.00468
+
+nSETS = 647
+
+sub_counter = 447
+
+Gurobi 8.1.0: optimal solution; objective 30.62838533
+718 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.004522
+331192 simplex iterations
+9100 branch-and-cut nodes
+I_Set_Weight = 1.00452
+
+nSETS = 648
+
+sub_counter = 448
+
+Gurobi 8.1.0: optimal solution; objective 30.62837144
+734 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.002036
+344851 simplex iterations
+9787 branch-and-cut nodes
+I_Set_Weight = 1.00204
+
+nSETS = 649
+
+sub_counter = 449
+
+Gurobi 8.1.0: optimal solution; objective 30.62834007
+710 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.001641
+336264 simplex iterations
+9419 branch-and-cut nodes
+I_Set_Weight = 1.00164
+
+nSETS = 650
+
+sub_counter = 450
+
+Gurobi 8.1.0: optimal solution; objective 30.62831935
+742 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1.000001
+362244 simplex iterations
+10152 branch-and-cut nodes
+I_Set_Weight = 1
+
+Independence = 30.6283
+
+sub_counter = 450
+
+breaker = -1
+
+nSETS = 650
+
+ampl:
+ampl:
+ampl:
+ampl:
+ampl:

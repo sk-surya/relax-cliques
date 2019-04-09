@@ -1,0 +1,222 @@
+ampl: include clique.run
+Gurobi 8.1.0: optimal solution; objective 32
+Gurobi 8.1.0: optimal solution; objective 2
+32 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 65
+
+sub_counter = 1
+
+Gurobi 8.1.0: optimal solution; objective 32
+4 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+23 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 2
+
+nSETS = 66
+
+sub_counter = 2
+
+Gurobi 8.1.0: optimal solution; objective 32
+8 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+9 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 2
+
+nSETS = 67
+
+sub_counter = 3
+
+Gurobi 8.1.0: optimal solution; objective 32
+12 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+7 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 2
+
+nSETS = 68
+
+sub_counter = 4
+
+Gurobi 8.1.0: optimal solution; objective 32
+16 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 69
+
+sub_counter = 5
+
+Gurobi 8.1.0: optimal solution; objective 32
+18 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+13 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 70
+
+sub_counter = 6
+
+Gurobi 8.1.0: optimal solution; objective 32
+24 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+29 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 71
+
+sub_counter = 7
+
+Gurobi 8.1.0: optimal solution; objective 32
+25 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+29 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 2
+
+nSETS = 72
+
+sub_counter = 8
+
+Gurobi 8.1.0: optimal solution; objective 32
+29 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+2 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 73
+
+sub_counter = 9
+
+Gurobi 8.1.0: optimal solution; objective 32
+32 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+4 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 74
+
+sub_counter = 10
+
+Gurobi 8.1.0: optimal solution; objective 32
+38 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+1 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 75
+
+sub_counter = 11
+
+Gurobi 8.1.0: optimal solution; objective 32
+40 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+4 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 76
+
+sub_counter = 12
+
+Gurobi 8.1.0: optimal solution; objective 32
+41 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+1 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 77
+
+sub_counter = 13
+
+Gurobi 8.1.0: optimal solution; objective 32
+44 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 78
+
+sub_counter = 14
+
+Gurobi 8.1.0: optimal solution; objective 32
+47 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 79
+
+sub_counter = 15
+
+Gurobi 8.1.0: optimal solution; objective 32
+49 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+15 simplex iterations
+1 branch-and-cut nodes
+I_Set_Weight = 2
+
+nSETS = 80
+
+sub_counter = 16
+
+Gurobi 8.1.0: optimal solution; objective 32
+51 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+6 simplex iterations
+I_Set_Weight = 2
+
+nSETS = 81
+
+sub_counter = 17
+
+Gurobi 8.1.0: optimal solution; objective 32
+52 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 82
+
+sub_counter = 18
+
+Gurobi 8.1.0: optimal solution; objective 32
+54 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 83
+
+sub_counter = 19
+
+Gurobi 8.1.0: optimal solution; objective 32
+53 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 84
+
+sub_counter = 20
+
+Gurobi 8.1.0: optimal solution; objective 32
+61 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 2
+I_Set_Weight = 2
+
+nSETS = 85
+
+sub_counter = 21
+
+Gurobi 8.1.0: optimal solution; objective 32
+70 simplex iterations
+Gurobi 8.1.0: optimal solution; objective 1
+I_Set_Weight = 1
+
+Independence = 32
+
+sub_counter = 21
+
+breaker = -1
+
+nSETS = 85
+
+ampl:
