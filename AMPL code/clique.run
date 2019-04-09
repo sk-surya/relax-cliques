@@ -1,0 +1,86 @@
+# -------------------------
+# RUN FILE
+# -------------------------
+
+reset;
+
+option solver cplex;
+option solution_round 6;
+
+model clique.mod;
+data clique.dat;
+write mclique;
+
+problem Master_Pro: y, Independence, Sets_Containing_j;
+	option relax_integrality 1;
+	option presolve 0;
+	
+problem Sub_Pro: x, I_Set_Weight, Edge_Constraints;
+	option relax_integrality 0;
+	option presolve 0;
+
+#let nSETS := 0;
+
+param sub_counter integer >=0;
+
+param breaker integer >=0;
+let sub_counter := 0;
+let breaker := 0;
+
+for {q in SETS_J}{
+	let nSETS := nSETS + 1;
+	let {j in SETS_J} z[j, nSETS] := a[j, nSETS];
+	};
+	
+	#display nSETS;
+	#display a>a.txt;
+	#display z>z.txt;
+repeat {
+	solve Master_Pro;
+	let {i in SETS_J} d[i] := Sets_Containing_j[i].dual;
+	
+	solve Sub_Pro;
+	#display x;
+	display I_Set_Weight;
+	#shell 'pause';
+	if I_Set_Weight > 1.001 then {
+		let sub_counter := sub_counter + 1;
+		let nSETS := nSETS + 1;
+		display nSETS;
+		let {k in SETS_J} z[k,nSETS] := x[k];
+		#for {k in SETS_J}{
+			#display k;
+			#display nSETS;
+			#display x[k];
+			#display z[k,nSETS];
+			#let z[k,nSETS] := x[k];
+			#display z[k,nSETS];
+			#}
+		#display x>surya.txt;
+		#display z>surya.txt;
+		display sub_counter;
+		#display z[1,126];
+		#display M_SETS;
+		#shell 'pause';
+		}
+	else {
+		let breaker := -1;
+		break;
+		}
+	};
+	
+	#display z;
+	#display y;
+	display Independence;
+	display sub_counter;
+	display breaker;
+	display nSETS;
+	
+	#option Master_Pro.relax_integrality 0;
+	#option Master_Pro.presolve 10;
+	#solve Master_Pro;
+	
+	
+	
+	
+
