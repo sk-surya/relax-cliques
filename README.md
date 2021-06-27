@@ -3,3 +3,5 @@ An upper bound algorithm implementation for the Maximum Clique problem, through 
 Graph data from DIMACS 2nd Implementation Challenge
 
 Read the pdf for a detailed description.
+
+A simpler, easy to understand implementation is in the Jupyter Notebook.
